@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ronos" name="ronos Add-on repository" version="1.0.0" provider-name="ronos">
+	<extension point="xbmc.addon.repository" name="ronos Add-on repository">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/ron23/ronos-repo/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/ron23/ronos-repo/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/ron23/ronos-repo/tree/master/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from ronos</summary>
+		<description lang="en">Download and install add-ons from ronos repository.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
