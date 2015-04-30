@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-
--<addon provider-name="ronos" version="1.0.0" name="ronos Add-on repository" id="repository.ronos">
--<extension name="ronos Add-on repository" point="xbmc.addon.repository">
-
--<dir>
-<info compressed="false">https://cdn.rawgit.com/ron23/ronos-repo/master/addons.xml</info>
-<checksum>http://raw.github.com/ron23/ronos-repo/master/addons.xml.md5</checksum>
-<datadir zip="true">http://raw.github.com/ron23/ronos-repo/master/</datadir>
-</dir>
-</extension>
--<extension point="xbmc.addon.metadata">
-<summary lang="en">Install Add-ons from ronos</summary>
-<description lang="en">Download and install add-ons from ronos repository.</description>
-<platform>all</platform>
-</extension>
+<addon id="repository.ronos" name="ronos Add-on repository" version="1.0.2" provider-name="ronos">
+	<extension point="xbmc.addon.repository" name="ronos Add-on repository">
+		<dir>
+			<info compressed="false">https://rawgit.com/ron23/ronos-repo/master/addons.xml</info>
+			<checksum>http://raw.github.com/ron23/ronos-repo/master/addons.xml.md5</checksum>
+			<datadir zip="true">http://raw.github.com/ron23/ronos-repo/master/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from ronos</summary>
+		<description lang="en">Download and install add-ons from ronos repository.</description>
+		<platform>all</platform>
+	</extension>
 </addon>
-
 </addons>
