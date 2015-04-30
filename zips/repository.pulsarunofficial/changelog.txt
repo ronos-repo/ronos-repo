@@ -1,0 +1,20 @@
+V1.0.1
+* Updated Disclaimer
+
+V1.0.0
+* Initial Release (1136 downloads)
+
+*************************
+Current Providers on Repo
+btdigg 0.5.0 - gomezvd 
+EZTV 0.0.9 - platbr 
+KickAssTorrents 0.2 - cpkiller
+PirateBay 1.1.0 - GabbeV 
+TPB 0.2.1 - braa
+Yify 0.0.4 - platbr
+YIFY2 0.0.1 - mancuniancol 
+**************************
+Pulsar Video Addons on Repo
+Magnetplayer 1.0.0 - Doc Shadrach 
+XBMCtorrent to Pulsar 1.0.1 - Doc Shadrach
+

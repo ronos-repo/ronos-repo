@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="Ninbora.Addons"
+       name="Ninbora Addons"
+       version="1.0.17"
+       provider-name="Ninbora Development Team">
+  <extension point="xbmc.addon.repository" name="Ninbora">
+    <info compressed="false">https://raw.githubusercontent.com/ninbora/repo/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/ninbora/repo/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/ninbora/repo/master</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <minversion>1</minversion>
+    <platform>all</platform>
+    <summary lang="en">Ninbora Repository</summary>
+    <description lang="en">Addons from Ninbora</description>
+  </extension>
+</addon>
+
 <addon id="plugin.audio.googlemusic.exp"
        name="Google Music EXP"
        version="1.2"
@@ -21,36 +38,120 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.RobinHood-PPL-List"
-       name="RobinHood-People List"
-       version="2.0.1"
-       provider-name="Husham.com">
+<addon id="plugin.video.KaraokeILMizrahi"
+	name="KaraokeILMizrahi"
+	version="1.0.2"
+	provider-name="xbmchub.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
+    <import addon="plugin.video.youtube" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">RobinHood People Lists - downloaded for free from:
-http://www.husham.com</summary>
-    <description lang="en">RobinHood-People List - The shadow crew finest addon
-	The ShadowCrew Has been working round the clock to make this addon working great for all.
-	http://www.husham.com
-	P.S. Special Thanks to Shani for his Excellent work for LiveStream Pro add-on
-</description>
+    <summary lang="en">KaraokeILMizrahi</summary>
+    <description lang="en">Awesome KaraokeILMizrahi videos from YouTube.</description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="plugin.video.sharimkaraokeltd"
+	name="sharimkaraokeltd"
+	version="1.0.2"
+	provider-name="xbmchub.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">sharimkaraokeltd</summary>
+    <description lang="en">Awesome sharimkaraokeltd videos from YouTube.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.iWillFolo.xbmc" name="iWillFolo add-ons" version="0.3" provider-name="iWillFolo.com">
+	<extension point="xbmc.addon.repository" name="iWillFolo add-on repository">
+		<info compressed="false">http://iwillfolo.com/wordpress/wp-content/uploads/download_dir/addons.xml</info>
+		<checksum>http://iwillfolo.com/wordpress/wp-content/uploads/download_dir/addons.xml.md5</checksum>
+		<datadir zip="true">http://iwillfolo.com/wordpress/wp-content/uploads/download_dir/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install add-ons from iWillFolo repository</summary>
+		<summary lang="de">Installiere Add-ons von iWillFolo Repository</summary>
+		<description>download and install add-ons from iWillFolo repository.</description>
+		<description lang="de">Downloade und installiere Add-ons von iWillFolo Repository.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.lambda" name="lambda Add-on repository" version="1.1.0" provider-name="lambda">
+	<extension point="xbmc.addon.repository" name="lambda Add-on repository">
+		<dir>
+			<info compressed="false">http://raw.github.com/lambda81/lambda-repo/master/addons.xml</info>
+			<checksum>http://raw.github.com/lambda81/lambda-repo/master/addons.xml.md5</checksum>
+			<datadir zip="true">http://raw.github.com/lambda81/lambda-repo/master/</datadir>
+		</dir>
+		<info compressed="false">https://offshoregit.com/lambda81/lambda-repo/addons.xml</info>
+		<checksum>https://offshoregit.com/lambda81/lambda-repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/lambda81/lambda-repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from lambda</summary>
+		<description lang="en">Download and install add-ons from lambda repository.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="1.4.3" provider-name="MetalKettle">
+	<extension point="xbmc.addon.repository" name="MetalKettles Addon Repository">
+		<info compressed="false">http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install my Addons</summary>
+		<description>Download and install addons from MetalKettle</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.p2p-streams.xbmc" name="p2p-streams repository" version="1.0.3" provider-name="enen92 - fightnight">
+	<extension point="xbmc.addon.repository" name="p2p-streams Repository">
+		<info compressed="false">http://p2p-strm.googlecode.com/svn/addons/addons.xml</info>
+		<checksum>http://p2p-strm.googlecode.com/svn/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://p2p-strm.googlecode.com/svn/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>p2p-streams repository</summary>
+   		<description lang="en">Install P2P-Streams addon for XBMC! P2P-Streams addon makes it easy for you to watch peer-to-peer streams in XBMC without the need for external players. Currently supporting Acestream and Sopcast streams it comprises an auto-configuration tool that will download the engines specifically for your platform.
+Supported platforms: Linux (Ubuntu/Debian/CentOS), Raspberry Pi (Openelec,Raspbmc,Xbian), Windows, Mac, Android, Openelec x86_64, Linux armv7 (MXLinux).
+Credits: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plugin); Tarasian666 (Mac/Rpi/armv7 ace engines); Divingmule (livestreams plugin); Marquerite (addor art).</description>
+    		<description lang="pt">Instale o addon P2P-Streams para o XBMC! O addon p2p-Streams torna possֳ­vel assistir de forma simples a streams peer-to-peer directamente no XBMC sem a necessidade de players externos. De momento suporta streams Ace (Acestreams) e Sopcast e inclui uma ferramenta de autoconfiguraֳ§ֳ£o que irֳ¡ fazer o download das engines correspondentes ao seu sistema operativo.
+Plataformas suportadas: Linux (Ubuntu/Debian/CentOS), Raspberry Pi (Openelec,Raspbmc,Xbian), Windows, Mac, Android, Openelec x86_64, Linux armv7 (MXLinux).
+Crֳ©ditos: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plugin); Tarasian666 (Mac/Rpi/armv7 ace engines); Divingmule (livestreams plugin); Marquerite (addor art).</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.pulsarunofficial" name="Pulsar Unofficial Repo" version="1.0.1" provider-name="iCanuck">
+	<extension point="xbmc.addon.repository" name="Pulsar Unofficial Repo">
+       <info>https://icanuckxbmcrepo.svn.cloudforge.com/pulsarunofficialrepo/trunk/addons.xml</info>
+       <checksum>https://icanuckxbmcrepo.svn.cloudforge.com/pulsarunofficialrepo/trunk/addons.xml.md5</checksum>
+       <datadir zip="true">https://icanuckxbmcrepo.svn.cloudforge.com/pulsarunofficialrepo/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Pulsar and Providers</summary>
+		<description>Download and install Pulsar and Providers</description>
+		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="repository.ronos" name="ronos Add-on repository" version="1.0.0" provider-name="ronos">
@@ -66,5 +167,153 @@ http://www.husham.com</summary>
 		<description lang="en">Download and install add-ons from ronos repository.</description>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="repository.t0mm0" name="t0mm0's XBMC Addons" version="1.0.3" provider-name="t0mm0 [dev@onairsoftware.co.uk]">
+	<extension point="xbmc.addon.repository" name="t0mm0's XBMC Addon Repository">
+		<info compressed="false">http://github.com/t0mm0/t0mm0-xbmc-plugins/raw/master/addons.xml</info>
+		<checksum>http://github.com/t0mm0/t0mm0-xbmc-plugins/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/t0mm0/t0mm0-xbmc-plugins/raw/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install t0mm0's Addons</summary>
+		<description>Download and install addons by t0mm0</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.TheYid" name="TheYid's REPO" version="1.3" provider-name="tcz009">
+	<extension point="xbmc.addon.repository" name="TheYid Addon Repository">
+		<info compressed="false">https://raw.github.com/TheYid/My-Repo/master/addons.xml</info>
+		<checksum>https://raw.github.com/TheYid/My-Repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/TheYid/My-Repo/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install TheYid's repo Addons</summary>
+		<description>install addons from tcz009 AKA TheYid .......For OFFICIAL Support please Visit XBMCHUB.COM or follow me on Twitter @TheYid009</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.tknorris.beta" name="tknorris Beta Testing Repository" version="1.0.1" provider-name="tknorris">
+    <extension point="xbmc.addon.repository" name="tknorris beta testing repository">
+        <info compressed="false">https://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml</info>
+        <checksum>https://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/tknorris/tknorris-beta-repo/raw/master/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>This is used ONLY for beta testing</summary>
+        <description>Beta testing only!!!
+DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
+
+Addons Included
+    - 1Channel (Beta)
+    - SALTS (Beta)
+        </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.xbmc-israel" name=".[COLOR blue]XBMC Israeli [/COLOR][COLOR white] Streaming Sites[/COLOR]" version="1.0.4" provider-name="cubicle-vdo">
+    <extension point="xbmc.addon.repository" name="XBMC Israeli streaming repo for streaming sites">
+        <info compressed="false">https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>XBMC Israeli Streaming Sites</summary>
+        <description>Download and install addons for XBMC Israeli streaming repo for streaming sites</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.xbmchub" name="XBMCHUB.com Addon Repository" version="1.0.3" provider-name="xbmchub.com">
+	<extension point="xbmc.addon.repository" name="XBMCHUB.com Addon Repository">
+		<info compressed="false">https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/addons.xml</info>
+		<checksum>https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The Best Third Party Addons for XBMC, Brought to you by XBMCHUB.com</summary>
+		<description>The Best Third Party Addons for XBMC, Brought to you by XBMCHUB.com</description>
+		<platform>all</platform>
+                <forum>http://www.xbmchub.com/forums/official-xbmc-hub-repo/</forum>
+                <website>http://www.xbmchub.com/</website>
+	</extension>
+</addon>
+
+<addon id="repository.xunitytalk" name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk Repository" version="1.0.6" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+	<extension point="xbmc.addon.repository" name="Mikey1234 Addon Repository">
+		<info compressed="false">http://xty.me/xunitytalk/addons/addons.xml</info>
+		<checksum>http://xty.me/xunitytalk/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://xty.me/xunitytalk/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The Best Third Party Addons for XBMC, .[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk</summary>
+		<description>The Best Third Party Addons for XBMC, .[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon
+  id="skin.confluenceplusplus.helix"
+  version="1.0.4"
+  name="Confluence++ (Helix)"
+  provider-name="Jezz_X, Team Kodi, elmerohueso">
+  <requires>
+    <import addon="xbmc.gui" version="5.3.0"/>
+	<import addon="script.favourites" version="5.0.2"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    defaultthemename="textures.xbt"
+    debugging="false"
+    effectslowdown="0.75">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Confluence skin by Jezz_X. (XBMC's default skin), modified by elmerohueso.</summary>
+    <description lang="en">The default Confluence skin with some modifications.
+- 7 Home screen shortcuts per category
+- Set favorites as Home screen shortcuts
+- Toggle Power and Favorites buttons
+- Select Power button action
+- Shutdown, reboot, and suspend ROOTED Android devices from the Shutdown Menu</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="xbmc.repo.elmerohueso" name="elmerohueso's Add-on Repository" version="1.0" provider-name="elmerohueso">
+    <extension point="xbmc.addon.repository" name="elmerohueso's Add-on Repository">
+        <info>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml</info>
+        <checksum>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>elmerohueso's Add-on Repository</summary>
+        <description>elmerohueso's Add-on Repository</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repo.hybrid"
+        name="Hybrid Development Repo"
+        version="1.0.0"
+        provider-name="Mudislander">
+    <extension point="xbmc.addon.repository"
+        name="Hybrid Development Repo">
+		<info>http://hybrid-development-repo.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://hybrid-development-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="true">http://hybrid-development-repo.googlecode.com/svn/trunk</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+		<summary>Hybrid Development Repository</summary>
+		<description>Repository containing the development version of XBMC's skin.hybrid </description>
+		<disclaimer>You break it - You get to keep the pieces</disclaimer>
+        <license>GPL</license>
+		<platform>all</platform>
+		<noicon>false</noicon>
+		<nofanart>false</nofanart>
+    </extension>
 </addon>
 </addons>

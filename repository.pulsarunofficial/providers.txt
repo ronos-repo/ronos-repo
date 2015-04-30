@@ -1,0 +1,18 @@
+Updated [url=https://sourceforge.net/projects/icanuckxbmcrepo/files/repository.pulsarunofficial-1.0.0.zip/download][size=medium][b]Unofficial Pulsar Repo[/b][/size][/url]
+*************************
+[b]• Current Providers on Repo •[/b]
+btdigg 0.5.0 - gomezvd - Fixed
+EZTV 0.0.9 - platbr 
+KickAssTorrents 0.2 - cpkiller
+PirateBay 1.1.0 - GabbeV 
+TPB 0.2.1 - braa
+Yify 0.0.4 - platbr
+YIFY2 0.0.1 - mancuniancol - Added
+[b]• Pulsar Video Addons on Repo •[/b]
+Magnetplayer 1.0.0 - Doc Shadrach 
+XBMCtorrent to Pulsar 1.0.1 - Doc Shadrach - Updated
+
+
+
+
+
