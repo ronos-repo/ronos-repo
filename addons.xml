@@ -3,7 +3,7 @@
 <addon id="repository.ronos" name="ronos Add-on repository" version="1.0.2" provider-name="ronos">
 	<extension point="xbmc.addon.repository" name="ronos Add-on repository">
 		<dir>
-			<info compressed="false">https://rawgit.com/ron23/ronos-repo/master/addons.xml</info>
+			<info compressed="false">https://raw.githubusercontent.com/ron23/ronos-repo/80225b0233203dfa824bec997dea0ca1b774d42e/addons.xml</info>
 			<checksum>http://raw.github.com/ron23/ronos-repo/master/addons.xml.md5</checksum>
 			<datadir zip="true">http://raw.github.com/ron23/ronos-repo/master/</datadir>
 		</dir>
