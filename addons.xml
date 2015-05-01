@@ -57,6 +57,21 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.sprotstv" name="sportsTV" version="1.0.1" provider-name=".">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="sportstv.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <supportedcontent>
+          <content>tvshows</content>
+        </supportedcontent>
+    </extension>
+ </addon>
+
 <addon id="repository.elmerohueso" name="elmerohueso's Add-on Repository" version="1.0" provider-name="elmerohueso">
     <extension point="xbmc.addon.repository" name="elmerohueso's Add-on Repository">
         <info>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml</info>
