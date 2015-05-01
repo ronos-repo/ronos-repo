@@ -112,8 +112,8 @@ class Generator:
             print("An error occurred saving %s file!\n%s" % ( file, e ))
  
  
-def zipfolder(foldername, target_dir, zips_dir):            
-    zipobj = zipfile.ZipFile(zips_dir + foldername, 'w', zipfile.ZIP_DEFLATED)
+def zipfolder(foldername, target_dir, zips_dir, zipFileNameWithVersion):            
+    zipobj = zipfile.ZipFile(zips_dir + zipFileNameWithVersion, 'w', zipfile.ZIP_DEFLATED)
     rootlen = len(target_dir) + 1
     for base, dirs, files in os.walk(target_dir):
         for file in files:
@@ -163,5 +163,5 @@ if ( __name__ == "__main__" ):
                 if re.search("changelog|icon|fanart", y):
                     shutil.copyfile(os.path.join(rootdir,x,y),os.path.join(zipsfolder,y))
                     print ('Copying ' + y + ' to ' + zipsfolder)
-            zipfolder(zipfilenamefirstpart+zipfilenamelastpart, foldertozip, zipsfolder)
+            zipfolder(zipfilenamefirstpart+zipfilenamelastpart, foldertozip, zipsfolder, zipfilenamefirstpart+version+zipfilenamelastpart)
             print ('Zipping ' + zipfilename + ' and moving to ' + zipfilenamefirstpart+version)
