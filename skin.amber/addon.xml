@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="skin.amber" version="2.0.12" name="Amber" provider-name="Pecinko">
+  <requires>
+    <import addon="xbmc.gui" version="5.3.0"/>
+    <import addon="script.favourites" version="3.2.0"/>
+    <import addon="service.skin.widgets" version="0.0.27"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin" debugging="false">
+    <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">No bloatware, just your media with easy to navigate interface</summary>
+    <description lang="en_US">No bloatware, just your media with easy to navigate interface.[CR]Uses some textures from Mediastream and Aeon skin.</description>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+    <source>https://github.com/pecinko/skin.amber</source>
+    <forum>http://forum.kodi.tv/showthread.php?tid=203708</forum>
+  </extension>
+</addon>

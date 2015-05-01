@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="Ninbora.Addons"
-       name="Ninbora Addons"
-       version="1.0.17"
-       provider-name="Ninbora Development Team">
-  <extension point="xbmc.addon.repository" name="Ninbora">
-    <info compressed="false">https://raw.githubusercontent.com/ninbora/repo/master/addons.xml</info>
-    <checksum>https://raw.githubusercontent.com/ninbora/repo/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/ninbora/repo/master</datadir>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <minversion>1</minversion>
-    <platform>all</platform>
-    <summary lang="en">Ninbora Repository</summary>
-    <description lang="en">Addons from Ninbora</description>
-  </extension>
-</addon>
-
 <addon id="plugin.audio.googlemusic.exp"
        name="Google Music EXP"
        version="1.2"
@@ -74,6 +57,40 @@
   </extension>
 </addon>
 
+<addon id="repository.elmerohueso" name="elmerohueso's Add-on Repository" version="1.0" provider-name="elmerohueso">
+    <extension point="xbmc.addon.repository" name="elmerohueso's Add-on Repository">
+        <info>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml</info>
+        <checksum>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>elmerohueso's Add-on Repository</summary>
+        <description>elmerohueso's Add-on Repository</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.hybrid"
+        name="Hybrid Development Repo"
+        version="1.0.0"
+        provider-name="Mudislander">
+    <extension point="xbmc.addon.repository"
+        name="Hybrid Development Repo">
+		<info>http://hybrid-development-repo.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://hybrid-development-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="true">http://hybrid-development-repo.googlecode.com/svn/trunk</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+		<summary>Hybrid Development Repository</summary>
+		<description>Repository containing the development version of XBMC's skin.hybrid </description>
+		<disclaimer>You break it - You get to keep the pieces</disclaimer>
+        <license>GPL</license>
+		<platform>all</platform>
+		<noicon>false</noicon>
+		<nofanart>false</nofanart>
+    </extension>
+</addon>
+
 <addon id="repository.iWillFolo.xbmc" name="iWillFolo add-ons" version="0.3" provider-name="iWillFolo.com">
 	<extension point="xbmc.addon.repository" name="iWillFolo add-on repository">
 		<info compressed="false">http://iwillfolo.com/wordpress/wp-content/uploads/download_dir/addons.xml</info>
@@ -119,6 +136,23 @@
 		<description>Download and install addons from MetalKettle</description>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="repository.Ninbora.Addons"
+       name="Ninbora Addons"
+       version="1.0.17"
+       provider-name="Ninbora Development Team">
+  <extension point="xbmc.addon.repository" name="Ninbora">
+    <info compressed="false">https://raw.githubusercontent.com/ninbora/repo/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/ninbora/repo/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/ninbora/repo/master</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <minversion>1</minversion>
+    <platform>all</platform>
+    <summary lang="en">Ninbora Repository</summary>
+    <description lang="en">Addons from Ninbora</description>
+  </extension>
 </addon>
 
 <addon id="repository.p2p-streams.xbmc" name="p2p-streams repository" version="1.0.3" provider-name="enen92 - fightnight">
@@ -255,6 +289,26 @@ Addons Included
 	</extension>
 </addon>
 
+<addon id="skin.amber" version="2.0.12" name="Amber" provider-name="Pecinko">
+  <requires>
+    <import addon="xbmc.gui" version="5.3.0"/>
+    <import addon="script.favourites" version="3.2.0"/>
+    <import addon="service.skin.widgets" version="0.0.27"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin" debugging="false">
+    <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">No bloatware, just your media with easy to navigate interface</summary>
+    <description lang="en_US">No bloatware, just your media with easy to navigate interface.[CR]Uses some textures from Mediastream and Aeon skin.</description>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+    <source>https://github.com/pecinko/skin.amber</source>
+    <forum>http://forum.kodi.tv/showthread.php?tid=203708</forum>
+  </extension>
+</addon>
+
 <addon
   id="skin.confluenceplusplus.helix"
   version="1.0.4"
@@ -281,39 +335,5 @@ Addons Included
 - Shutdown, reboot, and suspend ROOTED Android devices from the Shutdown Menu</description>
     <platform>all</platform>
   </extension>
-</addon>
-
-<addon id="xbmc.repo.elmerohueso" name="elmerohueso's Add-on Repository" version="1.0" provider-name="elmerohueso">
-    <extension point="xbmc.addon.repository" name="elmerohueso's Add-on Repository">
-        <info>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml</info>
-        <checksum>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>elmerohueso's Add-on Repository</summary>
-        <description>elmerohueso's Add-on Repository</description>
-        <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="repo.hybrid"
-        name="Hybrid Development Repo"
-        version="1.0.0"
-        provider-name="Mudislander">
-    <extension point="xbmc.addon.repository"
-        name="Hybrid Development Repo">
-		<info>http://hybrid-development-repo.googlecode.com/svn/trunk/addons.xml</info>
-		<checksum>http://hybrid-development-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
-		<datadir zip="true">http://hybrid-development-repo.googlecode.com/svn/trunk</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-		<summary>Hybrid Development Repository</summary>
-		<description>Repository containing the development version of XBMC's skin.hybrid </description>
-		<disclaimer>You break it - You get to keep the pieces</disclaimer>
-        <license>GPL</license>
-		<platform>all</platform>
-		<noicon>false</noicon>
-		<nofanart>false</nofanart>
-    </extension>
 </addon>
 </addons>
