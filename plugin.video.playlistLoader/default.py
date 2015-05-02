@@ -34,7 +34,7 @@ def Categories():
 	for item in list:
 		mode = 1 if item["url"].find(".plx") > 0 else 2
 		name = common.GetEncodeString(item["name"])
-		AddDir("[{0}]".format(name) ,item["url"], mode, "")
+		AddDir("{0}".format(name) ,item["url"], mode, "")
 
 def AddNewList():
 	listName = GetKeyboardText(localizedString(10004).encode('utf-8')).strip()

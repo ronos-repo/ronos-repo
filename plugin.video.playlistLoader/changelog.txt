@@ -1,3 +1,7 @@
+1.0.7
+- removed '[' in categories
+1.0.6
+- removed all categories except the the lists
 1.0.6
 - Fix for checking if file exist before backup.
 1.0.5

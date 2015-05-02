@@ -39,7 +39,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.0.7" provider-name="Avigdoron">
+<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.0.8" provider-name="Avigdor (mod ronos)">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
