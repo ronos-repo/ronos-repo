@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 #EXTINF:0, ספורט 5 לצפייה ישירה
 rtmp://31.220.0.104/privatestream/ playpath=dsfsf2342?keys=9SK0UxvE-HGCA-jMuT-6iQ&keyt=1430454142 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dsfsf2342
 #EXTINF:0, ספורט 5+ לצפייה ישירה
