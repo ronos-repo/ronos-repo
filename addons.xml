@@ -39,6 +39,22 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.0.7" provider-name="Avigdoron">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Playlist Loader - downloaded for free from:
+http://www.hometheater.co.il</summary>
+    <description lang="en">Playlist Loader - downloaded for free from:
+http://www.hometheater.co.il</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.sharimkaraokeltd"
 	name="sharimkaraokeltd"
 	version="1.0.2"
@@ -57,7 +73,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.sportstv" name="sportsTV" version="3.0.1" provider-name="ronos">
+<addon id="plugin.video.sportstv" name="sportsTV" version="1.0.1" provider-name="ronos">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
