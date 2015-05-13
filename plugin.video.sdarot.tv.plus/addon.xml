@@ -10,9 +10,9 @@
         <platform>all</platform>
         <minversion>31632</minversion>
         <summary lang="en">Watch Sdarot.tv video contents (Based on the original Sdarot.tv addon).</summary>
-        <summary lang="he">סדרות מתוך האתר sdarot.tv (מבוסס על ההרחבה המקורית של Sdarot.tv)</summary>
+        
         <description lang="en">Watch the many TV series available on sdarot.tv  (Based on the original Sdarot.tv addon)</description>
-        <description lang="he">צפיה בסדרות (הרבות) שיש באתר sdarot.tv  (מבוסס על ההרחבה המקורית של Sdarot.tv)</description>
+        
         <disclaimer>This addon parses their website, you should check their TOS before you using. It's as is</disclaimer>
         <supportedcontent>
           <content>tvshows</content>

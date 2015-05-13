@@ -14,8 +14,6 @@
              library="sratim.xml"/>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Sratim Movie Scraper</summary>
-    <summary lang="he">סקרייפר סרטים מאתר סרטים</summary>
-	<description lang="he">www.sratim.co.il הורדת מידע סרטים מאתר</description>
 	<description lang="en">Download Movie information from www.sratim.co.il</description>
 	<platform>all</platform>
   </extension>
