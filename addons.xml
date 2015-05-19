@@ -227,6 +227,24 @@ http://www.hometheater.co.il</description>
 	</extension>
 </addon>
 
+<addon id="repository.ninbora"
+       name="Ninbora Addons"
+       version="1.0.2"
+       provider-name="Ninbora Development Team">
+  <extension point="xbmc.addon.repository" name="Ninbora">
+    <info compressed="false">http://www.ninbora.com/addons/addons.xml</info>
+    <checksum>http://www.ninbora.com/addons/addons.xml.md5</checksum>
+    <datadir zip="true">http://www.ninbora.com/addons</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <minversion>1</minversion>
+    <platform>all</platform>
+    <summary     lang="en">Ninbora Repository</summary>
+    <description lang="en">Addons from Ninbora</description>
+    <website>https://www.ninbora.com</website>
+  </extension>
+</addon>
+
 <addon id="repository.p2p-streams.xbmc" name="p2p-streams repository" version="1.0.3" provider-name="enen92 - fightnight">
 	<extension point="xbmc.addon.repository" name="p2p-streams Repository">
 		<info compressed="false">http://p2p-strm.googlecode.com/svn/addons/addons.xml</info>
