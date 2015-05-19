@@ -11,7 +11,7 @@
   <extension point="xbmc.addon.metadata">
     <minversion>1</minversion>
     <platform>all</platform>
-    <summary     lang="en">Ninbora Repository</summary>
+    <summary lang="en">Ninbora Repository</summary>
     <description lang="en">Addons from Ninbora</description>
     <website>https://www.ninbora.com</website>
   </extension>
