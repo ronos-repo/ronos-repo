@@ -75,6 +75,22 @@ http://www.hometheater.co.il</description>
   </extension>
 </addon>
 
+<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="0.0.7" provider-name="Avigdor">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Playlist Loader - downloaded for free from:
+http://www.hometheater.co.il</summary>
+    <description lang="en">Playlist Loader - downloaded for free from:
+http://www.hometheater.co.il</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.sdarot.tv.plus" name="Sdarot.tv Video (Plus)" version="2.2.1" provider-name="addon_hacker">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -209,23 +225,6 @@ http://www.hometheater.co.il</description>
 		<description>Download and install addons from MetalKettle</description>
 		<platform>all</platform>
 	</extension>
-</addon>
-
-<addon id="repository.Ninbora.Addons"
-       name="Ninbora Addons"
-       version="1.0.17"
-       provider-name="Ninbora Development Team">
-  <extension point="xbmc.addon.repository" name="Ninbora">
-    <info compressed="false">https://raw.githubusercontent.com/ninbora/repo/master/addons.xml</info>
-    <checksum>https://raw.githubusercontent.com/ninbora/repo/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/ninbora/repo/master</datadir>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <minversion>1</minversion>
-    <platform>all</platform>
-    <summary lang="en">Ninbora Repository</summary>
-    <description lang="en">Addons from Ninbora</description>
-  </extension>
 </addon>
 
 <addon id="repository.p2p-streams.xbmc" name="p2p-streams repository" version="1.0.3" provider-name="enen92 - fightnight">
