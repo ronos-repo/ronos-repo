@@ -1,0 +1,78 @@
+﻿#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]»»------------------------ 26-05-2015 ------------------------««[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 26-05-2015--[/COLOR]  
+
+#EXTINF:-1,[COLOR yellow]»»--- UK Channels ---««[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,BBC One London
+http://82.135.224.134:80/udp/239.100.3.1:1234
+
+#EXTINF:-1,BBC One Scotland
+http://82.135.224.134:80/udp/239.100.3.2:1234
+
+#EXTINF:-1,BBC Two England
+http://82.135.224.134:80/udp/239.100.3.3:1234
+
+#EXTINF:-1,BBC Three
+http://82.135.224.134:80/udp/239.100.3.4:1234
+
+#EXTINF:-1,BBC Four
+http://82.135.224.134:80/udp/239.100.3.5:1234
+
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1,ITV 1 London
+http://82.135.224.134:80/udp/239.100.3.6:1234
+
+#EXTINF:-1, E4 HD
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+
+
+#EXTINF:-1,[COLOR orange]»»--- Music ---««[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1,BANDAMAX HD
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
+
+#EXTINF:-1, Music
+http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+
+#EXTINF:-1,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+
+#EXTINF:-1,[COLOR pink]»»--- Movies ---««[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1, Film4 HD
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+
+#EXTINF:-1,[COLOR blue]»»--- Sport ---««[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, BT Sport 2
+rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH

@@ -1,0 +1,74 @@
+#EXTM3U
+
+#EXTINF:-1,Anis Sat :beIN SPORTS  1HD
+http://185.56.30.127:8082/TV4001
+#EXTINF:-1,Anis Sat :beIN SPORTS  2HD
+http://185.56.30.127:8082/TV4002
+#EXTINF:-1,Anis Sat :beIN SPORTS  3HD
+http://185.56.30.127:8082/TV4003
+#EXTINF:-1,Anis Sat :beIN SPORTS  4HD
+http://185.56.30.127:8082/TV4004
+#EXTINF:-1,Anis Sat :beIN SPORTS  5HD
+http://185.56.30.127:8082/TV4005
+#EXTINF:-1,Anis Sat :beIN SPORTS  6HD
+http://185.56.30.127:8082/TV4006
+#EXTINF:-1,Anis Sat :beIN SPORTS  7HD
+http://185.56.30.127:8082/TV4007
+#EXTINF:-1,Anis Sat :beIN SPORTS  8HD
+http://185.56.30.127:8082/TV4008
+#EXTINF:-1,Anis Sat :beIN SPORTS  9HD
+http://185.56.30.127:8082/TV4009
+#EXTINF:-1,Anis Sat :beIN SPORTS  10HD
+http://185.56.30.127:8082/TV4010
+#EXTINF:-1,Anis Sat :beIN SPORTS  11HD (EN)
+http://185.56.30.127:8082/TV4011
+#EXTINF:-1,Anis Sat :beIN SPORTS  12HD  (EN)
+http://185.56.30.127:8082/TV4012
+#EXTINF:-1,Anis Sat :beIN SPORTS  13HD  (FR)
+http://185.56.30.127:8082/TV4013
+#EXTINF:-1,Anis Sat :beIN SPORTS  14HD  (FR)
+http://185.56.30.127:8082/TV4014
+#EXTINF:-1,Anis Sat :beIN SPORTS  15HD  (FR)
+http://185.56.30.127:8082/TV4015
+#EXTINF:-1,Anis Sat :beIN SPORTS  1HD (FR)
+http://185.56.30.127:8082/TV4016
+#EXTINF:-1,Anis Sat :beIN SPORTS  2HD (Fr)
+http://185.56.30.127:8082/TV4017
+
+#EXTINF:-1,Anis Sat : beIN Sports 1 HD (FR)
+http://195.154.227.38:1935/live/bein1frlsh/playlist.m3u8
+#EXTINF:-1,Anis Sat : beIN Sports 2 HD (FR)
+http://195.154.227.38:1935/live/bein2frlsh/playlist.m3u8
+#EXTINF:-1,Anis Sat : beIN Sports 1 HD English
+http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/anis_sat.m3u8
+#EXTINF:-1,Anis Sat : beIN Sports 1 HD Spanish
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/anis_sat.m3u8
+
+#EXTINF:-1,Anis Sat :Sky Movies Premiere
+http://185.56.30.127:8082/TV4251
+#EXTINF:-1,Anis Sat :Sky Movies Premiere+
+http://185.56.30.127:8082/TV4252
+#EXTINF:-1,Anis Sat :Sky Sky Movies Select & Anis Sat
+http://185.56.30.127:8082/TV4254
+#EXTINF:-1,Anis Sat :Sky Movies Action & Adventure
+http://185.56.30.127:8082/TV4245
+#EXTINF:-1,Anis Sat :Sky Movies Comedy
+http://185.56.30.127:8082/TV4246
+#EXTINF:-1,Anis Sat :Sky Movies Disney
+http://185.56.30.127:8082/TV4247
+#EXTINF:-1,Anis Sat :Sky Movies Family
+http://185.56.30.127:8082/TV4248
+#EXTINF:-1,Anis Sat :Sky Movies SciFi
+http://185.56.30.127:8082/TV4249
+#EXTINF:-1,Anis Sat :Sky sports 1
+http://185.56.30.127:8082/TV4284
+#EXTINF:-1,Anis Sat :Sky sports 3
+http://185.56.30.127:8082/TV4286
+#EXTINF:-1,Anis Sat :Sky sports 4
+http://185.56.30.127:8082/TV4130
+#EXTINF:-1,Anis Sat :Eurosport 1
+http://185.56.30.127:8082/TV4326
+#EXTINF:-1,Anis Sat :sports rus
+http://185.56.30.127:8082/TV4025
+#EXTINF:-1,Anis Sat :TRT Spor 3
+http://185.56.30.127:8082/TV4026

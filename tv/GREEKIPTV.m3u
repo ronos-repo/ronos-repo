@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,Greek Music Hits
+mmsh://wpso.com:200/music
+#EXTINF:0,EBS
+http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
+#EXTINF:0,EBS PLUS
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
+#EXTINF:0,EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
+#EXTINF:0,NERIT
+http://nerit1-lh.akamaihd.net/i/nerit_1@120689/master.m3u8
+#EXTINF:0,NERIT PLUS
+http://nerit2-lh.akamaihd.net/i/neritplus_1@121149/master.m3u8
+#EXTINF:0,VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:0,NERIT HD
+mmsh://magictvbox.us:200/skai
+#EXTINF:-1,ET3
+http://live2.ertopen.com/live2/e600/playlist.m3u8
+#EXTINF:0,NERIT PROMO
+http://nerit3-lh.akamaihd.net/i/nerit_promo_6@48667/master.m3u8
+#EXTINF:0,MEGA
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:0,ANT1
+http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
+#EXTINF:0,ALPHA
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+#EXTINF:0,STAR
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:0,SKAI
+http://iphone.skai.gr.edgesuite.net/iphone_iphone.m3u8
+#EXTINF:0,ART
+http://iphone-streaming.ustream.tv/uhls/16900854/streams/live/iphone/playlist.m3u8
+#EXTINF:0,E
+rtmp://213.16.167.187:1935/live/mpegts_256.stream
+#EXTINF:0,MAKEDONIA
+rtmp://213.16.167.55/livepkgr/livestream
+#EXTINF:0,ACTION 24
+http://cdnselector.streamago.tv/live/52721/44490/playlist.m3u8
+#EXTINF:0,BLUE SKY
+http://88.198.238.44:1935/bluesky/bluesky.stream/playlist.m3u8
