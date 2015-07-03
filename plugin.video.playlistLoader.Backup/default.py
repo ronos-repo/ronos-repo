@@ -29,30 +29,14 @@ if  not (os.path.isfile(favoritesFile)):
 	
 def Categories():
 	repoCheck.UpdateRepo()
-	playlistDictionary = {
-	#'ronos-Not updated' : 'http://tiny.cc/ronosiptv',
-	#'prozone - Not Working': 'http://prozone.getxbmc.com/playlists',
-	'proTV': 'http://sportisraelprotv.site90.com/protvisrael.m3u'}
-	
+	AddDir("[COLOR yellow][B]{0}[/B][/COLOR]".format(localizedString(10001).encode('utf-8')), "settings" , 20, os.path.join(addonDir, "resources", "images", "NewList.ico"), isFolder=False)
+	AddDir("[COLOR white][B][{0}][/B][/COLOR]".format(localizedString(10003).encode('utf-8')), "favorites" ,30 ,os.path.join(addonDir, "resources", "images", "bright_yellow_star.png"))
 	
 	list = common.ReadList(playlistsFile)
-	
-	for listName, listUrl in playlistDictionary.iteritems():
-		isAlreadyExist = False
-		for item in list:
-			if item["url"].lower() == listUrl.lower():
-				isAlreadyExist = True
-				break
-		if not isAlreadyExist:
-			list.append({"name": listName.decode("utf-8"), "url": listUrl})
-	
 	for item in list:
 		mode = 1 if item["url"].find(".plx") > 0 else 2
 		name = common.GetEncodeString(item["name"])
-		AddDir("{0}".format(name) ,item["url"], mode, "")
-	
-	AddDir("[COLOR yellow]{0}[/COLOR]".format(localizedString(10001).encode('utf-8')), "settings" , 20, os.path.join(addonDir, "resources", "images", "NewList.ico"), isFolder=False)
-	AddDir("[COLOR yellow]{0}[/COLOR]".format(localizedString(10003).encode('utf-8')), "favorites" ,30 ,os.path.join(addonDir, "resources", "images", "bright_yellow_star.png"))
+		AddDir("[COLOR blue][{0}][/COLOR]".format(name) ,item["url"], mode, "")
 
 def AddNewList():
 	listName = GetKeyboardText(localizedString(10004).encode('utf-8')).strip()
