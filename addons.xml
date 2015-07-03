@@ -59,7 +59,27 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="0.0.7" provider-name="Avigdor">
+<addon
+	id="plugin.video.latinototal" version="0.2.0" name="latinototal" provider-name="19hdz19">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+        <import addon="plugin.video.youtube" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+                <platform>all</platform>
+		<summary lang="es">totallatino</summary>
+        <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+		<website>[COLOR yellow][B]http://www.palcotv.net[/B][/COLOR]</website>
+		<license>GPL 2.0</license>
+		<platform>all</platform>
+		<language>en</language>
+	</extension>
+</addon>
+
+<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.1.0" provider-name="Avigdor(mod ronos)">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -75,7 +95,7 @@ http://www.hometheater.co.il</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="0.0.7" provider-name="Avigdor">
+<addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.0.6" provider-name="Avigdor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -214,7 +234,7 @@ http://www.hometheater.co.il</description>
 	</extension>
 </addon>
 
-<addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="1.4.3" provider-name="MetalKettle">
+<addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="1.5.1" provider-name="MetalKettle">
 	<extension point="xbmc.addon.repository" name="MetalKettles Addon Repository">
 		<info compressed="false">http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml</info>
 		<checksum>http://raw.github.com/metalkettle/MetalKettles-Addon-Repository/master/addons.xml.md5</checksum>
@@ -289,6 +309,19 @@ Crֳ©ditos: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plu
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install Add-ons from ronos</summary>
 		<description lang="en">Download and install add-ons from ronos repository.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.shadowcrew" name="ShadowCrew" version="2.0.0" provider-name="ShadowCrew">
+	<extension point="xbmc.addon.repository" name="ShadowCrew Repository">
+		<info compressed="false">http://shadowcrew.info/shadows/addons.xml</info>
+		<checksum>http://shadowcrew.info/shadows/addons.xml.md5</checksum>
+		<datadir zip="true">http://shadowcrew.info/shadows/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+    <summary lang="en"> Join us at http://robinhoodgroup-tv.info/community/index.php</summary>
+    <description lang="en">Special Thank you to Hakamac, Metal Kettle and Xunity</description>
 		<platform>all</platform>
 	</extension>
 </addon>
