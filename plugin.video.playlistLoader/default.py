@@ -32,7 +32,9 @@ def Categories():
 	playlistDictionary = {
 	#'ronos-Not updated' : 'http://tiny.cc/ronosiptv',
 	#'prozone - Not Working': 'http://prozone.getxbmc.com/playlists',
-	'proTV': 'http://sportisraelprotv.site90.com/protvisrael.m3u'}
+	'All (micky)': 'http://lvtvv.com/htf.m3u',
+	'Idan+ (TheWiz)': 'http://iptv.thewiz.info/idan.m3u',
+	'proTV (+sport5HD)': 'http://sportisraelprotv.site90.com/protvisrael.m3u'}
 	
 	
 	list = common.ReadList(playlistsFile)
