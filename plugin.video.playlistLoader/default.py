@@ -28,7 +28,7 @@ if  not (os.path.isfile(favoritesFile)):
 	f.close() 
 	
 def Categories():
-		repoCheck.UpdateRepo()
+	repoCheck.UpdateRepo()
 	playlistDictionary = {
 	#'ronos-Not updated' : 'http://tiny.cc/ronosiptv',
 	#'prozone - Not Working': 'http://prozone.getxbmc.com/playlists',
@@ -51,8 +51,8 @@ def Categories():
 		name = common.GetEncodeString(item["name"])
 		AddDir("{0}".format(name) ,item["url"], mode, "")
 	
-	AddDir("[COLOR yellow]{0}[/COLOR]".format(localizedString(10001).encode('utf-8')), "settings" , 20, os.path.join(addonDir, "resources", "images", "NewList.ico"), isFolder=False)
-	AddDir("[COLOR yellow]{0}[/COLOR]".format(localizedString(10003).encode('utf-8')), "favorites" ,30 ,os.path.join(addonDir, "resources", "images", "bright_yellow_star.png"))
+	AddDir("[COLOR yellow][{0}][/COLOR]".format(localizedString(10001).encode('utf-8')), "settings" , 20, os.path.join(addonDir, "resources", "images", "NewList.ico"), isFolder=False)
+	AddDir("[COLOR yellow][{0}][/COLOR]".format(localizedString(10003).encode('utf-8')), "favorites" ,30 ,os.path.join(addonDir, "resources", "images", "bright_yellow_star.png"))
 
 def AddNewList():
 	listName = GetKeyboardText(localizedString(10004).encode('utf-8')).strip()
