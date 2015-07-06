@@ -32,6 +32,7 @@ def Categories():
 	playlistDictionary = {
 	#'ronos-Not updated' : 'http://tiny.cc/ronosiptv',
 	#'prozone - Not Working': 'http://prozone.getxbmc.com/playlists',
+	'All (Jordan)': 'http://ij0rd8n.x10host.com',
 	'All (micky)': 'http://lvtvv.com/htf.m3u',
 	'Idan+ (TheWiz)': 'http://iptv.thewiz.info/idan.m3u',
 	'proTV (+sport5HD)': 'http://sportisraelprotv.site90.com/protvisrael.m3u'}
