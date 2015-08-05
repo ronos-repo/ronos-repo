@@ -8,6 +8,8 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary lang="en">A repository for all Hebrew must have Add-On. All updated</summary>
+        <summary lang="he">תוספים מומלצים ומעודכנים</summary>
         <description lang="en">Hebrew Movies/TV Wall, Hebrew movies scraper, Hebrew Skins....</description>
+        <description lang="he">קיר סרטים וסדרות, סקרייפר לסרטים בעברית, עשרות סקינים בעברית ועוד</description>
     </extension>
 </addon>

@@ -414,19 +414,6 @@ Crֳ©ditos: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plu
 	</extension>
 </addon>
 
-<addon id="repository.TheWiz" name="TheWiz Hebrew Repository" version="2.1.4" provider-name="TheWiz">
-    <extension point="xbmc.addon.repository" name="TheWiz Hebrew Repository">
-        <info compressed="true">http://repo.thewiz.info/addons.xml</info>
-        <checksum>http://repo.thewiz.info/addons.xml.md5</checksum>
-        <datadir zip="true">http://repo.thewiz.info/</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary lang="en">A repository for all Hebrew must have Add-On. All updated</summary>
-        <description lang="en">Hebrew Movies/TV Wall, Hebrew movies scraper, Hebrew Skins....</description>
-    </extension>
-</addon>
-
 <addon id="repository.TheYid" name="TheYid's REPO" version="1.3" provider-name="tcz009">
 	<extension point="xbmc.addon.repository" name="TheYid Addon Repository">
 		<info compressed="false">https://raw.github.com/TheYid/My-Repo/master/addons.xml</info>
