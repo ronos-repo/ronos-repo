@@ -1,4 +1,5 @@
+#! /bin/bash
 git add iptv.m3u
 git commit -m "updated iptv"
 git push origin master
-pause
+read -p "Press enter to continue"
