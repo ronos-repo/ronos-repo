@@ -1,0 +1,15 @@
+*** First `remove all parser traces` found in the addon settings
+
+Instructions for downloading all parsers.
+
+If you want to get all the parsers at once:
+1) go to the addon settings
+2) Section lists/parsers
+3) Execute remote python script
+4) Introduce this url: http://bit.ly/allparsers
+5) click ok and wait
+
+Here is the link to my project --> https://code.google.com/p/parsersforp2pstreams/
+
+Direct really long link (if there are problems with bit.ly) 
+http://parsersforp2pstreams.googlecode.com/svn/trunk/master/test%20all.py
