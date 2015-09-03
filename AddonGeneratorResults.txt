@@ -1,5 +1,4 @@
 Excluding P2P-STREAMS-Parsers\addon.xml for [Errno 2] No such file or directory: 'P2P-STREAMS-Parsers\\addon.xml'
-Excluding plugin.test\addon.xml for [Errno 2] No such file or directory: 'plugin.test\\addon.xml'
 Excluding repository.TheWiz\addon.xml for 'charmap' codec can't decode byte 0x9d in position 670: character maps to <undefined>
 Excluding zips\addon.xml for [Errno 2] No such file or directory: 'zips\\addon.xml'
 Finished updating addons xml and md5 files
@@ -52,8 +51,6 @@ processing file: D:\Software\Kodi\ronos repo\plugin.program.addoninstaller\resou
 processing file: D:\Software\Kodi\ronos repo\plugin.program.addoninstaller\t0mm0_common_addon.py
 processing file: D:\Software\Kodi\ronos repo\plugin.program.addoninstaller\t0mm0_common_net.py
 Zipping plugin.program.addoninstaller.zip and moving to plugin.program.addoninstaller-1.2.0
-Directory doesn't exist, creating: zips\plugin.test\
-Zipping plugin.test.zip and moving to plugin.test-1.2.0
 processing file: D:\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\addon.xml
 addon: 1.0.2
 processing file: D:\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\default.py
