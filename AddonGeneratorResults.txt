@@ -185,7 +185,6 @@ processing file: D:\Software\Kodi\ronos repo\repository.bbtsip.tv\icon.png
 Copying icon.png to zips\repository.bbtsip.tv\
 processing file: D:\Software\Kodi\ronos repo\repository.bbtsip.tv\LICENSE.txt
 Zipping repository.bbtsip.tv.zip and moving to repository.bbtsip.tv-0.0.4
-Directory doesn't exist, creating: zips\repository.dextertv\
 processing file: D:\Software\Kodi\ronos repo\repository.dextertv\addon.xml
 addon: 1.0
 processing file: D:\Software\Kodi\ronos repo\repository.dextertv\changelog.txt
@@ -215,7 +214,6 @@ addon: 0.3
 processing file: D:\Software\Kodi\ronos repo\repository.iWillFolo.xbmc\icon.png
 Copying icon.png to zips\repository.iWillFolo.xbmc\
 Zipping repository.iWillFolo.xbmc.zip and moving to repository.iWillFolo.xbmc-0.3
-Directory doesn't exist, creating: zips\repository.jas0npc\
 processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\addon.xml
 addon: 1.0.6
 processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\changelog.txt
