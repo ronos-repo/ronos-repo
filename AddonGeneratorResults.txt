@@ -4,7 +4,7 @@ Excluding zips\addon.xml for [Errno 2] No such file or directory: 'zips\\addon.x
 Finished updating addons xml and md5 files
 Starting zip file creation...
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\addon.xml
-addon: 1.3
+addon: 1.4.1
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\changelog.txt
 Copying changelog.txt to zips\plugin.audio.googlemusic.exp\
 Copying changelog.txt to zips\plugin.audio.googlemusic.exp\
@@ -12,17 +12,21 @@ processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\defaul
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\fanart.jpg
 Copying fanart.jpg to zips\plugin.audio.googlemusic.exp\
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\gmusicapi
+processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicActions.py
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicApi.py
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicLogin.py
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicNavigation.py
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicPlaySong.py
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicStorage.py
+processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\gpsoauth
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\icon.png
 Copying icon.png to zips\plugin.audio.googlemusic.exp\
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\LICENSE.txt
+processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\pkcs1
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\resources
+processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\utils.py
 processing file: D:\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\__init__.py
-Zipping plugin.audio.googlemusic.exp.zip and moving to plugin.audio.googlemusic.exp-1.3
+Zipping plugin.audio.googlemusic.exp.zip and moving to plugin.audio.googlemusic.exp-1.4.1
 processing file: D:\Software\Kodi\ronos repo\plugin.metadata.sratim.co.il\addon.xml
 addon: 1.3.4
 processing file: D:\Software\Kodi\ronos repo\plugin.metadata.sratim.co.il\changelog.txt
@@ -181,6 +185,18 @@ processing file: D:\Software\Kodi\ronos repo\repository.bbtsip.tv\icon.png
 Copying icon.png to zips\repository.bbtsip.tv\
 processing file: D:\Software\Kodi\ronos repo\repository.bbtsip.tv\LICENSE.txt
 Zipping repository.bbtsip.tv.zip and moving to repository.bbtsip.tv-0.0.4
+Directory doesn't exist, creating: zips\repository.dextertv\
+processing file: D:\Software\Kodi\ronos repo\repository.dextertv\addon.xml
+addon: 1.0
+processing file: D:\Software\Kodi\ronos repo\repository.dextertv\changelog.txt
+Copying changelog.txt to zips\repository.dextertv\
+Copying changelog.txt to zips\repository.dextertv\
+processing file: D:\Software\Kodi\ronos repo\repository.dextertv\fanart.jpg
+Copying fanart.jpg to zips\repository.dextertv\
+processing file: D:\Software\Kodi\ronos repo\repository.dextertv\icon.png
+Copying icon.png to zips\repository.dextertv\
+processing file: D:\Software\Kodi\ronos repo\repository.dextertv\Thumbs.db
+Zipping repository.dextertv.zip and moving to repository.dextertv-1.0
 processing file: D:\Software\Kodi\ronos repo\repository.elmerohueso\addon.xml
 addon: 1.0
 processing file: D:\Software\Kodi\ronos repo\repository.elmerohueso\icon.png
@@ -199,6 +215,18 @@ addon: 0.3
 processing file: D:\Software\Kodi\ronos repo\repository.iWillFolo.xbmc\icon.png
 Copying icon.png to zips\repository.iWillFolo.xbmc\
 Zipping repository.iWillFolo.xbmc.zip and moving to repository.iWillFolo.xbmc-0.3
+Directory doesn't exist, creating: zips\repository.jas0npc\
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\addon.xml
+addon: 1.0.6
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\changelog.txt
+Copying changelog.txt to zips\repository.jas0npc\
+Copying changelog.txt to zips\repository.jas0npc\
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\fanart.jpg
+Copying fanart.jpg to zips\repository.jas0npc\
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\icon.png
+Copying icon.png to zips\repository.jas0npc\
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\Thumbs.db
+Zipping repository.jas0npc.zip and moving to repository.jas0npc-1.0.6
 processing file: D:\Software\Kodi\ronos repo\repository.kodiunderground\addon.xml
 addon: 1.0.3
 processing file: D:\Software\Kodi\ronos repo\repository.kodiunderground\changelog.txt

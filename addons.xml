@@ -2,17 +2,17 @@
 <addons>
 <addon id="plugin.audio.googlemusic.exp"
        name="Google Music EXP"
-       version="1.3"
+       version="1.4.1"
        provider-name="ForeverGuest">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="xbmc.addon" version="12.0.0"/>
-    <import addon="script.module.parsedom" version="2.5.1"/>
+    <import addon="plugin.video.youtube" version="5.1.1" optional="true"/>
     <import addon="script.module.decorator" version="3.4.0"/>
     <import addon="script.module.requests" version="1.1.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>audio</provides>
+    <provides>audio</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
@@ -258,6 +258,19 @@ http://www.hometheater.co.il</description>
         </extension>
 </addon>
 
+<addon id="repository.dextertv" name="dextertv repo" version="1.0" provider-name="dexter">
+	<extension point="xbmc.addon.repository" name="dexter Addon Repository">
+		<info compressed="false">https://raw.githubusercontent.com/xoptimus/dexter/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/xoptimus/dexter/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/xoptimus/dexter/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install My Addons</summary>
+		<description>Download and install addons from dexter!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.elmerohueso" name="elmerohueso's Add-on Repository" version="1.0" provider-name="elmerohueso">
     <extension point="xbmc.addon.repository" name="elmerohueso's Add-on Repository">
         <info>http://github.com/elmerohueso/xbmc.repo.elmerohueso/raw/master/download/addons.xml</info>
@@ -304,6 +317,19 @@ http://www.hometheater.co.il</description>
 		<description>download and install add-ons from iWillFolo repository.</description>
 		<description lang="de">Downloade und installiere Add-ons von iWillFolo Repository.</description>
 		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.jas0npc" name="__Jas0npc__ Repository" version="1.0.6" provider-name="Jas0npc">
+	<extension point="xbmc.addon.repository" name="__Jas0npc__ Addon Repository">
+		<info compressed="false">http://raw.github.com/jas0npc/kodi/master/addons/addons.xml</info>
+		<checksum>http://raw.github.com/jas0npc/kodi/master/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/jas0npc/kodi/master/addons/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>New and old stuff from me.</summary>
+		<description>New and old stuff from me.</description>
 		<platform>all</platform>
 	</extension>
 </addon>
