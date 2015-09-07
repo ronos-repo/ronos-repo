@@ -198,6 +198,16 @@ addon: 1.0
 processing file: D:\Software\Kodi\ronos repo\repository.elmerohueso\icon.png
 Copying icon.png to zips\repository.elmerohueso\
 Zipping repository.elmerohueso.zip and moving to repository.elmerohueso-1.0
+processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\addon.xml
+addon: 1.1
+processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\changelog.txt
+Copying changelog.txt to zips\repository.entertainmentrepo\
+Copying changelog.txt to zips\repository.entertainmentrepo\
+processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\fanart.jpg
+Copying fanart.jpg to zips\repository.entertainmentrepo\
+processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\icon.png
+Copying icon.png to zips\repository.entertainmentrepo\
+Zipping repository.entertainmentrepo.zip and moving to repository.entertainmentrepo-1.1
 processing file: D:\Software\Kodi\ronos repo\repository.hybrid\addon.xml
 addon: 1.0.0
 processing file: D:\Software\Kodi\ronos repo\repository.hybrid\fanart.jpg
