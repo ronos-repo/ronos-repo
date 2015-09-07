@@ -518,7 +518,7 @@ Crֳ©ditos: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plu
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary lang="en">A repository for all Hebrew must have Add-On. All updated</summary>
-        <description lang="en">Hebrew Movies/TV Wall, Hebrew movies scraper, Hebrew Skins....</description>
+        <description lang="en">Hebrew Movies TV Wall, Hebrew movies scraper, Hebrew Skins</description>
     </extension>
 </addon>
 
