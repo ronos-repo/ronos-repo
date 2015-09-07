@@ -331,14 +331,6 @@ Copying changelog.txt to zips\repository.tknorris.beta\
 processing file: D:\Software\Kodi\ronos repo\repository.tknorris.beta\icon.png
 Copying icon.png to zips\repository.tknorris.beta\
 Zipping repository.tknorris.beta.zip and moving to repository.tknorris.beta-1.0.1
-processing file: D:\Software\Kodi\ronos repo\repository.traitravinh-1.0\addon.xml
-addon: 1.0
-processing file: D:\Software\Kodi\ronos repo\repository.traitravinh-1.0\changelog.txt
-Copying changelog.txt to zips\repository.traitravinh-1.0\
-Copying changelog.txt to zips\repository.traitravinh-1.0\
-processing file: D:\Software\Kodi\ronos repo\repository.traitravinh-1.0\icon.png
-Copying icon.png to zips\repository.traitravinh-1.0\
-Zipping repository.traitravinh-1.0.zip and moving to repository.traitravinh-1.0-1.0
 processing file: D:\Software\Kodi\ronos repo\repository.xbmc-israel\addon.xml
 addon: 1.0.4
 processing file: D:\Software\Kodi\ronos repo\repository.xbmc-israel\changelog.txt
