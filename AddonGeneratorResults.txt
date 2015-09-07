@@ -184,42 +184,11 @@ processing file: D:\Software\Kodi\ronos repo\repository.bbtsip.tv\icon.png
 Copying icon.png to zips\repository.bbtsip.tv\
 processing file: D:\Software\Kodi\ronos repo\repository.bbtsip.tv\LICENSE.txt
 Zipping repository.bbtsip.tv.zip and moving to repository.bbtsip.tv-0.0.4
-processing file: D:\Software\Kodi\ronos repo\repository.boogie\.gitignore
-processing file: D:\Software\Kodi\ronos repo\repository.boogie\addon.xml
-addon: 0.0.2
-processing file: D:\Software\Kodi\ronos repo\repository.boogie\changelog.txt
-Copying changelog.txt to zips\repository.boogie\
-Copying changelog.txt to zips\repository.boogie\
-processing file: D:\Software\Kodi\ronos repo\repository.boogie\icon.png
-Copying icon.png to zips\repository.boogie\
-processing file: D:\Software\Kodi\ronos repo\repository.boogie\README.md
-Zipping repository.boogie.zip and moving to repository.boogie-0.0.2
-processing file: D:\Software\Kodi\ronos repo\repository.dextertv\addon.xml
-addon: 1.0
-processing file: D:\Software\Kodi\ronos repo\repository.dextertv\changelog.txt
-Copying changelog.txt to zips\repository.dextertv\
-Copying changelog.txt to zips\repository.dextertv\
-processing file: D:\Software\Kodi\ronos repo\repository.dextertv\fanart.jpg
-Copying fanart.jpg to zips\repository.dextertv\
-processing file: D:\Software\Kodi\ronos repo\repository.dextertv\icon.png
-Copying icon.png to zips\repository.dextertv\
-processing file: D:\Software\Kodi\ronos repo\repository.dextertv\Thumbs.db
-Zipping repository.dextertv.zip and moving to repository.dextertv-1.0
 processing file: D:\Software\Kodi\ronos repo\repository.elmerohueso\addon.xml
 addon: 1.0
 processing file: D:\Software\Kodi\ronos repo\repository.elmerohueso\icon.png
 Copying icon.png to zips\repository.elmerohueso\
 Zipping repository.elmerohueso.zip and moving to repository.elmerohueso-1.0
-processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\addon.xml
-addon: 1.1
-processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\changelog.txt
-Copying changelog.txt to zips\repository.entertainmentrepo\
-Copying changelog.txt to zips\repository.entertainmentrepo\
-processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\fanart.jpg
-Copying fanart.jpg to zips\repository.entertainmentrepo\
-processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\icon.png
-Copying icon.png to zips\repository.entertainmentrepo\
-Zipping repository.entertainmentrepo.zip and moving to repository.entertainmentrepo-1.1
 processing file: D:\Software\Kodi\ronos repo\repository.hybrid\addon.xml
 addon: 1.0.0
 processing file: D:\Software\Kodi\ronos repo\repository.hybrid\fanart.jpg
@@ -233,6 +202,17 @@ addon: 0.3
 processing file: D:\Software\Kodi\ronos repo\repository.iWillFolo.xbmc\icon.png
 Copying icon.png to zips\repository.iWillFolo.xbmc\
 Zipping repository.iWillFolo.xbmc.zip and moving to repository.iWillFolo.xbmc-0.3
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\addon.xml
+addon: 1.0.6
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\changelog.txt
+Copying changelog.txt to zips\repository.jas0npc\
+Copying changelog.txt to zips\repository.jas0npc\
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\fanart.jpg
+Copying fanart.jpg to zips\repository.jas0npc\
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\icon.png
+Copying icon.png to zips\repository.jas0npc\
+processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\Thumbs.db
+Zipping repository.jas0npc.zip and moving to repository.jas0npc-1.0.6
 processing file: D:\Software\Kodi\ronos repo\repository.kodiunderground\addon.xml
 addon: 1.0.3
 processing file: D:\Software\Kodi\ronos repo\repository.kodiunderground\changelog.txt
