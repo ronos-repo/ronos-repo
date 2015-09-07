@@ -1,5 +1,4 @@
 Excluding P2P-STREAMS-Parsers\addon.xml for [Errno 2] No such file or directory: 'P2P-STREAMS-Parsers\\addon.xml'
-Excluding repository.TheWiz\addon.xml for 'charmap' codec can't decode byte 0x9d in position 670: character maps to <undefined>
 Excluding zips\addon.xml for [Errno 2] No such file or directory: 'zips\\addon.xml'
 Finished updating addons xml and md5 files
 Starting zip file creation...
@@ -211,7 +210,6 @@ addon: 1.0
 processing file: D:\Software\Kodi\ronos repo\repository.elmerohueso\icon.png
 Copying icon.png to zips\repository.elmerohueso\
 Zipping repository.elmerohueso.zip and moving to repository.elmerohueso-1.0
-Directory doesn't exist, creating: zips\repository.entertainmentrepo\
 processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\addon.xml
 addon: 1.1
 processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\changelog.txt
