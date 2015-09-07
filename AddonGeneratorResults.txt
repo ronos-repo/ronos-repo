@@ -184,6 +184,15 @@ processing file: D:\Software\Kodi\ronos repo\repository.bbtsip.tv\icon.png
 Copying icon.png to zips\repository.bbtsip.tv\
 processing file: D:\Software\Kodi\ronos repo\repository.bbtsip.tv\LICENSE.txt
 Zipping repository.bbtsip.tv.zip and moving to repository.bbtsip.tv-0.0.4
+processing file: D:\Software\Kodi\ronos repo\repository.boogie\addon.xml
+addon: 0.0.2
+processing file: D:\Software\Kodi\ronos repo\repository.boogie\changelog.txt
+Copying changelog.txt to zips\repository.boogie\
+Copying changelog.txt to zips\repository.boogie\
+processing file: D:\Software\Kodi\ronos repo\repository.boogie\icon.png
+Copying icon.png to zips\repository.boogie\
+processing file: D:\Software\Kodi\ronos repo\repository.boogie\README.md
+Zipping repository.boogie.zip and moving to repository.boogie-0.0.2
 processing file: D:\Software\Kodi\ronos repo\repository.dextertv\addon.xml
 addon: 1.0
 processing file: D:\Software\Kodi\ronos repo\repository.dextertv\changelog.txt
