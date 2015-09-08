@@ -479,12 +479,8 @@ Crֳ©ditos: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plu
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install Add-ons from ronos</summary>
-		<description lang="en">Install the repos you want first, then install the plugins you want from the repos themselves (or from AllAddons)
-MUST INSTALL REPOS: TvAddons, Xunity, SuperRepo.
-XBMC-Israel:everything; lambda:genesis; x-unity:Vdoubt25,RobinHood; IWillfollow:sportsDevil; KodiUnderground:PulsarStuff;
-BBTS; DEXTER; jas0npc:TheMuttsNuts; Boogie:UniversalMediaProvider; Bstrdsmkr's:1Channel; Eldorado:IceFilm;
-MetalKettles:DecadoDocumentaries,MoviesHD,UKTurkPlaylist; NiboraFeeders; P2Pstreams,Pulsar; PulsarUnofficial:Providers; Ronos:GoogleMusic;
-TheWiz:YouTubeMusic;TheEntertainment:EntertainmentHUB;TV ADDONS:MuchMoviesHD,Phonix,Navi-X,AddonInstaller; SuperRepo:OurMatch.NET
+		<description lang="en">Install the repos you want first, then install the plugins you want from the repos themselves (or from AllAddons). MUST INSTALL REPOS: TvAddons, Xunity, SuperRepo.
+XBMC-Israel:everything; lambda:genesis; x-unity:Vdoubt25,RobinHood; IWillfollow:sportsDevil; KodiUnderground:PulsarStuff; BBTS; DEXTER; jas0npc:TheMuttsNuts; Boogie:UniversalMediaProvider; Bstrdsmkr's:1Channel; Eldorado:IceFilm; MetalKettles:DecadoDocumentaries,MoviesHD,UKTurkPlaylist; NiboraFeeders; P2Pstreams,Pulsar; PulsarUnofficial:Providers; Ronos:GoogleMusic; TheWiz:YouTubeMusic;TheEntertainment:EntertainmentHUB;TVADDONS:MuchMoviesHD,Phonix,Navi-X,AddonInstaller; SuperRepo:OurMatch.NET
 		</description>
 		<platform>all</platform>
 	</extension>
