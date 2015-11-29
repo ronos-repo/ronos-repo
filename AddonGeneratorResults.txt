@@ -297,6 +297,18 @@ Copying icon.png to zips\repository.pulsarunofficial\
 processing file: D:\Software\Kodi\ronos repo\repository.pulsarunofficial\LICENSE.txt
 processing file: D:\Software\Kodi\ronos repo\repository.pulsarunofficial\providers.txt
 Zipping repository.pulsarunofficial.zip and moving to repository.pulsarunofficial-1.0.1
+Directory doesn't exist, creating: zips\repository.rayw1986\
+processing file: D:\Software\Kodi\ronos repo\repository.rayw1986\addon.xml
+addon: 1.0
+processing file: D:\Software\Kodi\ronos repo\repository.rayw1986\changelog.txt
+Copying changelog.txt to zips\repository.rayw1986\
+Copying changelog.txt to zips\repository.rayw1986\
+processing file: D:\Software\Kodi\ronos repo\repository.rayw1986\fanart.jpg
+Copying fanart.jpg to zips\repository.rayw1986\
+processing file: D:\Software\Kodi\ronos repo\repository.rayw1986\icon.png
+Copying icon.png to zips\repository.rayw1986\
+processing file: D:\Software\Kodi\ronos repo\repository.rayw1986\Thumbs.db
+Zipping repository.rayw1986.zip and moving to repository.rayw1986-1.0
 processing file: D:\Software\Kodi\ronos repo\repository.ronos\addon.xml
 addon: 2.0.0
 processing file: D:\Software\Kodi\ronos repo\repository.ronos\fanart.jpg
