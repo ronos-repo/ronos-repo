@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.ronos-repo-installer" name="ronos-repo-installer" version="0.0.1" provider-name="ronos">
+    <requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="repository.kodil" version="1.0.1"/>
+		<import addon="repository.rayw1986" version="1.0"/>
+		<import addon="repository.boogie" version="0.0.2"/>
+		<import addon="repository.donatelloandhybrid" version="1.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Ronos Selected Addons</summary>
+		<description lang="en">Install this to automatically install good add-ons</description>
+	</extension>
+</addon>

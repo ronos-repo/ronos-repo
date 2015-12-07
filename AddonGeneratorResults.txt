@@ -102,6 +102,18 @@ processing file: D:\Software\Kodi\ronos repo\plugin.video.latinototal\tmp
 processing file: D:\Software\Kodi\ronos repo\plugin.video.latinototal\__init__.py
 processing file: D:\Software\Kodi\ronos repo\plugin.video.latinototal\~$efault.py
 Zipping plugin.video.latinototal.zip and moving to plugin.video.latinototal-0.2.0
+Directory doesn't exist, creating: zips\plugin.video.liveil.tv\
+processing file: D:\Software\Kodi\ronos repo\plugin.video.liveil.tv\.project
+processing file: D:\Software\Kodi\ronos repo\plugin.video.liveil.tv\.pydevproject
+processing file: D:\Software\Kodi\ronos repo\plugin.video.liveil.tv\addon.xml
+addon: 1.3.6
+processing file: D:\Software\Kodi\ronos repo\plugin.video.liveil.tv\default.py
+processing file: D:\Software\Kodi\ronos repo\plugin.video.liveil.tv\fanart.jpg
+Copying fanart.jpg to zips\plugin.video.liveil.tv\
+processing file: D:\Software\Kodi\ronos repo\plugin.video.liveil.tv\icon.png
+Copying icon.png to zips\plugin.video.liveil.tv\
+processing file: D:\Software\Kodi\ronos repo\plugin.video.liveil.tv\resources
+Zipping plugin.video.liveil.tv.zip and moving to plugin.video.liveil.tv-1.3.6
 processing file: D:\Software\Kodi\ronos repo\plugin.video.playlistLoader\addon.xml
 addon: 1.1.3
 processing file: D:\Software\Kodi\ronos repo\plugin.video.playlistLoader\changelog.txt
@@ -209,7 +221,6 @@ processing file: D:\Software\Kodi\ronos repo\repository.dextertv\icon.png
 Copying icon.png to zips\repository.dextertv\
 processing file: D:\Software\Kodi\ronos repo\repository.dextertv\Thumbs.db
 Zipping repository.dextertv.zip and moving to repository.dextertv-1.0
-Directory doesn't exist, creating: zips\repository.donatelloandhybrid\
 processing file: D:\Software\Kodi\ronos repo\repository.donatelloandhybrid\addon.xml
 addon: 1.0
 processing file: D:\Software\Kodi\ronos repo\repository.donatelloandhybrid\icon.png
