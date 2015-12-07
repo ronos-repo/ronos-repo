@@ -419,6 +419,19 @@ http://www.hometheater.co.il</description>
 	</extension>
 </addon>
 
+<addon id="repository.Kinkin" name="Kinkins REPO" version="1.4" provider-name="Kinkin">
+	<extension point="xbmc.addon.repository" name="Kinkin Addon Repository">
+		<info compressed="false">https://offshoregit.com/kinkin-xbmc-repository/addons.xml</info>
+		<checksum>https://offshoregit.com/kinkin-xbmc-repository/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/kinkin-xbmc-repository/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Kinkins Addons</summary>
+		<description>Install addons by Kinkin</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.kodil" name=".[COLOR blue]www.Kodisrael.co.il [/COLOR][COLOR white] Repository [/COLOR]" version="1.0.1" provider-name="kodil">
     <extension point="xbmc.addon.repository" name="www.Kodisrael.co.il Repository ">
         <info compressed="false">https://raw.githubusercontent.com/kodil/kodil/master/addons.xml</info>
@@ -695,7 +708,7 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="script.ronos-addon-installer" name="ronos-addon-installer" version="0.0.2" provider-name="ronos">
+<addon id="script.ronos-addon-installer" name="ronos-addon-installer" version="0.0.3" provider-name="ronos">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="plugin.video.tv2go" version="1.0.2"/>
@@ -710,12 +723,9 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="script.ronos-repo-installer" name="ronos-repo-installer" version="0.0.1" provider-name="ronos">
+<addon id="script.ronos-repo-installer" name="ronos-repo-installer" version="0.0.3" provider-name="ronos">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
-		<import addon="repository.kodil" version="1.0.1"/>
-		<import addon="repository.rayw1986" version="1.0"/>
-		<import addon="repository.boogie" version="0.0.2"/>
 		<import addon="repository.donatelloandhybrid" version="1.0"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
