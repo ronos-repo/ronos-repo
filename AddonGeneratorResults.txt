@@ -264,7 +264,6 @@ processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\icon.png
 Copying icon.png to zips\repository.jas0npc\
 processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\Thumbs.db
 Zipping repository.jas0npc.zip and moving to repository.jas0npc-1.0.6
-Directory doesn't exist, creating: zips\repository.Kinkin\
 processing file: D:\Software\Kodi\ronos repo\repository.Kinkin\addon.xml
 addon: 1.4
 processing file: D:\Software\Kodi\ronos repo\repository.Kinkin\changelog.txt
@@ -420,20 +419,24 @@ Copying icon.png to zips\repository.xunitytalk\
 Zipping repository.xunitytalk.zip and moving to repository.xunitytalk-1.0.6
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\addon.py
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\addon.xml
-addon: 0.0.3
+addon: 0.0.4
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\changelog.txt
 Copying changelog.txt to zips\script.ronos-addon-installer\
 Copying changelog.txt to zips\script.ronos-addon-installer\
+processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\fanart.jpg
+Copying fanart.jpg to zips\script.ronos-addon-installer\
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\icon.png
 Copying icon.png to zips\script.ronos-addon-installer\
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\LICENSE.txt
-Zipping script.ronos-addon-installer.zip and moving to script.ronos-addon-installer-0.0.3
+Zipping script.ronos-addon-installer.zip and moving to script.ronos-addon-installer-0.0.4
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\addon.py
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\addon.xml
 addon: 0.0.3
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\changelog.txt
 Copying changelog.txt to zips\script.ronos-repo-installer\
 Copying changelog.txt to zips\script.ronos-repo-installer\
+processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\fanart.jpg
+Copying fanart.jpg to zips\script.ronos-repo-installer\
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\icon.png
 Copying icon.png to zips\script.ronos-repo-installer\
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\LICENSE.txt
