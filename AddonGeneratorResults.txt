@@ -419,7 +419,7 @@ Copying icon.png to zips\repository.xunitytalk\
 Zipping repository.xunitytalk.zip and moving to repository.xunitytalk-1.0.6
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\addon.py
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\addon.xml
-addon: 0.0.4
+addon: 0.0.5
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\changelog.txt
 Copying changelog.txt to zips\script.ronos-addon-installer\
 Copying changelog.txt to zips\script.ronos-addon-installer\
@@ -428,7 +428,7 @@ Copying fanart.jpg to zips\script.ronos-addon-installer\
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\icon.png
 Copying icon.png to zips\script.ronos-addon-installer\
 processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\LICENSE.txt
-Zipping script.ronos-addon-installer.zip and moving to script.ronos-addon-installer-0.0.4
+Zipping script.ronos-addon-installer.zip and moving to script.ronos-addon-installer-0.0.5
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\addon.py
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\addon.xml
 addon: 0.0.3
