@@ -724,10 +724,11 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="script.ronos-repo-installer" name="ronos-repo-installer" version="0.0.3" provider-name="ronos">
+<addon id="script.ronos-repo-installer" name="ronos-repo-installer" version="0.0.4" provider-name="ronos">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="repository.donatelloandhybrid" version="1.0"/>
+		<import addon="repository.rayw1986" version="1.0"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>executable</provides>
