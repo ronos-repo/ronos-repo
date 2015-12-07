@@ -170,7 +170,6 @@ processing file: D:\Software\Kodi\ronos repo\plugin.video.sportstv\icon.png
 Copying icon.png to zips\plugin.video.sportstv\
 processing file: D:\Software\Kodi\ronos repo\plugin.video.sportstv\sportstv.py
 Zipping plugin.video.sportstv.zip and moving to plugin.video.sportstv-1.0.1
-Directory doesn't exist, creating: zips\repository.abeksis\
 processing file: D:\Software\Kodi\ronos repo\repository.abeksis\addon.xml
 addon: 1.0.2
 processing file: D:\Software\Kodi\ronos repo\repository.abeksis\icon.png
@@ -210,6 +209,12 @@ processing file: D:\Software\Kodi\ronos repo\repository.dextertv\icon.png
 Copying icon.png to zips\repository.dextertv\
 processing file: D:\Software\Kodi\ronos repo\repository.dextertv\Thumbs.db
 Zipping repository.dextertv.zip and moving to repository.dextertv-1.0
+Directory doesn't exist, creating: zips\repository.donatelloandhybrid\
+processing file: D:\Software\Kodi\ronos repo\repository.donatelloandhybrid\addon.xml
+addon: 1.0
+processing file: D:\Software\Kodi\ronos repo\repository.donatelloandhybrid\icon.png
+Copying icon.png to zips\repository.donatelloandhybrid\
+Zipping repository.donatelloandhybrid.zip and moving to repository.donatelloandhybrid-1.0
 processing file: D:\Software\Kodi\ronos repo\repository.elmerohueso\addon.xml
 addon: 1.0
 processing file: D:\Software\Kodi\ronos repo\repository.elmerohueso\icon.png
@@ -249,7 +254,6 @@ processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\icon.png
 Copying icon.png to zips\repository.jas0npc\
 processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\Thumbs.db
 Zipping repository.jas0npc.zip and moving to repository.jas0npc-1.0.6
-Directory doesn't exist, creating: zips\repository.kodil\
 processing file: D:\Software\Kodi\ronos repo\repository.kodil\addon.xml
 addon: 1.0.1
 processing file: D:\Software\Kodi\ronos repo\repository.kodil\changelog.txt
@@ -343,7 +347,6 @@ processing file: D:\Software\Kodi\ronos repo\repository.t0mm0\changelog.txt
 Copying changelog.txt to zips\repository.t0mm0\
 Copying changelog.txt to zips\repository.t0mm0\
 Zipping repository.t0mm0.zip and moving to repository.t0mm0-1.0.3
-Directory doesn't exist, creating: zips\repository.thevibe\
 processing file: D:\Software\Kodi\ronos repo\repository.thevibe\addon.xml
 addon: 2.0
 processing file: D:\Software\Kodi\ronos repo\repository.thevibe\icon.png
