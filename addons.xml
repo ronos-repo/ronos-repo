@@ -724,11 +724,14 @@ Addons Included
 	</extension>
 </addon>
 
-<addon id="script.ronos-repo-installer" name="ronos-repo-installer" version="0.0.4" provider-name="ronos">
+<addon id="script.ronos-repo-installer" name="ronos-repo-installer" version="0.1.0" provider-name="ronos">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="repository.donatelloandhybrid" version="1.0"/>
 		<import addon="repository.rayw1986" version="1.0"/>
+		<import addon="repository.thevibe" version="2.0"/>
+		<import addon="repository.kodil" version="1.0.1"/>
+		<import addon="repository.abeksis" version="1.0.2"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>executable</provides>

@@ -431,7 +431,7 @@ processing file: D:\Software\Kodi\ronos repo\script.ronos-addon-installer\LICENS
 Zipping script.ronos-addon-installer.zip and moving to script.ronos-addon-installer-0.0.5
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\addon.py
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\addon.xml
-addon: 0.0.4
+addon: 0.1.0
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\changelog.txt
 Copying changelog.txt to zips\script.ronos-repo-installer\
 Copying changelog.txt to zips\script.ronos-repo-installer\
@@ -440,7 +440,7 @@ Copying fanart.jpg to zips\script.ronos-repo-installer\
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\icon.png
 Copying icon.png to zips\script.ronos-repo-installer\
 processing file: D:\Software\Kodi\ronos repo\script.ronos-repo-installer\LICENSE.txt
-Zipping script.ronos-repo-installer.zip and moving to script.ronos-repo-installer-0.0.4
+Zipping script.ronos-repo-installer.zip and moving to script.ronos-repo-installer-0.1.0
 processing file: D:\Software\Kodi\ronos repo\skin.amber\.gitignore
 processing file: D:\Software\Kodi\ronos repo\skin.amber\1080i
 processing file: D:\Software\Kodi\ronos repo\skin.amber\addon.xml
