@@ -170,6 +170,12 @@ processing file: D:\Software\Kodi\ronos repo\plugin.video.sportstv\icon.png
 Copying icon.png to zips\plugin.video.sportstv\
 processing file: D:\Software\Kodi\ronos repo\plugin.video.sportstv\sportstv.py
 Zipping plugin.video.sportstv.zip and moving to plugin.video.sportstv-1.0.1
+Directory doesn't exist, creating: zips\repository.abeksis\
+processing file: D:\Software\Kodi\ronos repo\repository.abeksis\addon.xml
+addon: 1.0.2
+processing file: D:\Software\Kodi\ronos repo\repository.abeksis\icon.png
+Copying icon.png to zips\repository.abeksis\
+Zipping repository.abeksis.zip and moving to repository.abeksis-1.0.2
 processing file: D:\Software\Kodi\ronos repo\repository.addonscriptorde-beta\addon.xml
 addon: 1.0.0
 Zipping repository.addonscriptorde-beta.zip and moving to repository.addonscriptorde-beta-1.0.0
@@ -243,6 +249,15 @@ processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\icon.png
 Copying icon.png to zips\repository.jas0npc\
 processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\Thumbs.db
 Zipping repository.jas0npc.zip and moving to repository.jas0npc-1.0.6
+Directory doesn't exist, creating: zips\repository.kodil\
+processing file: D:\Software\Kodi\ronos repo\repository.kodil\addon.xml
+addon: 1.0.1
+processing file: D:\Software\Kodi\ronos repo\repository.kodil\changelog.txt
+Copying changelog.txt to zips\repository.kodil\
+Copying changelog.txt to zips\repository.kodil\
+processing file: D:\Software\Kodi\ronos repo\repository.kodil\icon.png
+Copying icon.png to zips\repository.kodil\
+Zipping repository.kodil.zip and moving to repository.kodil-1.0.1
 processing file: D:\Software\Kodi\ronos repo\repository.kodiunderground\addon.xml
 addon: 1.0.3
 processing file: D:\Software\Kodi\ronos repo\repository.kodiunderground\changelog.txt
@@ -297,7 +312,6 @@ Copying icon.png to zips\repository.pulsarunofficial\
 processing file: D:\Software\Kodi\ronos repo\repository.pulsarunofficial\LICENSE.txt
 processing file: D:\Software\Kodi\ronos repo\repository.pulsarunofficial\providers.txt
 Zipping repository.pulsarunofficial.zip and moving to repository.pulsarunofficial-1.0.1
-Directory doesn't exist, creating: zips\repository.rayw1986\
 processing file: D:\Software\Kodi\ronos repo\repository.rayw1986\addon.xml
 addon: 1.0
 processing file: D:\Software\Kodi\ronos repo\repository.rayw1986\changelog.txt
@@ -329,6 +343,12 @@ processing file: D:\Software\Kodi\ronos repo\repository.t0mm0\changelog.txt
 Copying changelog.txt to zips\repository.t0mm0\
 Copying changelog.txt to zips\repository.t0mm0\
 Zipping repository.t0mm0.zip and moving to repository.t0mm0-1.0.3
+Directory doesn't exist, creating: zips\repository.thevibe\
+processing file: D:\Software\Kodi\ronos repo\repository.thevibe\addon.xml
+addon: 2.0
+processing file: D:\Software\Kodi\ronos repo\repository.thevibe\icon.png
+Copying icon.png to zips\repository.thevibe\
+Zipping repository.thevibe.zip and moving to repository.thevibe-2.0
 processing file: D:\Software\Kodi\ronos repo\repository.TheWiz\addon.xml
 addon: 2.1.4
 processing file: D:\Software\Kodi\ronos repo\repository.TheWiz\icon.png
