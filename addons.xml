@@ -643,11 +643,21 @@ XBMC-Israel:everything; lambda:genesis; x-unity:Vdoubt25,RobinHood; IWillfollow:
 	</extension>
 </addon>
 
-<addon id="repository.tknorris.beta" name="tknorris Beta Testing Repository" version="1.0.1" provider-name="tknorris">
+<addon id="repository.tknorris.beta" name="tknorris Beta Testing Repository" version="1.0.5" provider-name="tknorris">
     <extension point="xbmc.addon.repository" name="tknorris beta testing repository">
-        <info compressed="false">https://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml</info>
-        <checksum>https://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/tknorris/tknorris-beta-repo/raw/master/zips/</datadir>
+	    <dir>
+	        <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+	        <checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+	        <datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+	    </dir>
+        <dir>
+            <info compressed="false">http://github.com/norris-addons/tknorris-beta-repo/raw/master/addons.xml</info>
+            <checksum>http://github.com/norris-addons/tknorris-beta-repo/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">http://github.com/norris-addons/tknorris-beta-repo/raw/master/zips/</datadir>
+        </dir>
+        <info compressed="false">http://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml</info>
+        <checksum>http://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">http://github.com/tknorris/tknorris-beta-repo/raw/master/zips/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>This is used ONLY for beta testing</summary>
@@ -656,7 +666,11 @@ DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
 
 Addons Included
     - 1Channel (Beta)
+    - 1Channel Thempak
     - SALTS (Beta)
+    - SALTS Themepak
+    - Trakt (Beta)
+    - Trakt List Manager (Alpha)
         </description>
         <platform>all</platform>
     </extension>
@@ -713,7 +727,7 @@ Addons Included
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="plugin.video.tv2go" version="1.0.2"/>
 		<import addon="context.genesis" version="1.2.0"/>
-		<import addon="plugin.video.salts" version="1.0.83"/>
+		<import addon="plugin.video.salts" version="1.0.84"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>executable</provides>
