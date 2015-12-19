@@ -299,7 +299,7 @@ processing file: D:\Software\Kodi\ronos repo\repository.lambda\icon.png
 Copying icon.png to zips\repository.lambda\
 Zipping repository.lambda.zip and moving to repository.lambda-1.1.0
 processing file: D:\Software\Kodi\ronos repo\repository.metalkettle\addon.xml
-addon: 1.5.1
+addon: 1.6.2
 processing file: D:\Software\Kodi\ronos repo\repository.metalkettle\changelog.txt
 Copying changelog.txt to zips\repository.metalkettle\
 Copying changelog.txt to zips\repository.metalkettle\
@@ -308,7 +308,7 @@ Copying fanart.jpg to zips\repository.metalkettle\
 processing file: D:\Software\Kodi\ronos repo\repository.metalkettle\icon.png
 Copying icon.png to zips\repository.metalkettle\
 processing file: D:\Software\Kodi\ronos repo\repository.metalkettle\Thumbs.db
-Zipping repository.metalkettle.zip and moving to repository.metalkettle-1.5.1
+Zipping repository.metalkettle.zip and moving to repository.metalkettle-1.6.2
 processing file: D:\Software\Kodi\ronos repo\repository.ninbora\addon.xml
 addon: 1.0.2
 processing file: D:\Software\Kodi\ronos repo\repository.ninbora\icon.png
