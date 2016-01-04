@@ -135,18 +135,6 @@ Copying icon.png to zips\plugin.video.playlistLoader.Backup\
 processing file: D:\Software\Kodi\ronos repo\plugin.video.playlistLoader.Backup\repoCheck.py
 processing file: D:\Software\Kodi\ronos repo\plugin.video.playlistLoader.Backup\resources
 Zipping plugin.video.playlistLoader.Backup.zip and moving to plugin.video.playlistLoader.Backup-1.0.6
-processing file: D:\Software\Kodi\ronos repo\plugin.video.sdarot.tv.plus\addon.xml
-addon: 2.2.1
-processing file: D:\Software\Kodi\ronos repo\plugin.video.sdarot.tv.plus\changelog.txt
-Copying changelog.txt to zips\plugin.video.sdarot.tv.plus\
-Copying changelog.txt to zips\plugin.video.sdarot.tv.plus\
-processing file: D:\Software\Kodi\ronos repo\plugin.video.sdarot.tv.plus\fanart.jpg
-Copying fanart.jpg to zips\plugin.video.sdarot.tv.plus\
-processing file: D:\Software\Kodi\ronos repo\plugin.video.sdarot.tv.plus\icon.png
-Copying icon.png to zips\plugin.video.sdarot.tv.plus\
-processing file: D:\Software\Kodi\ronos repo\plugin.video.sdarot.tv.plus\resources
-processing file: D:\Software\Kodi\ronos repo\plugin.video.sdarot.tv.plus\sdarottvplus.py
-Zipping plugin.video.sdarot.tv.plus.zip and moving to plugin.video.sdarot.tv.plus-2.2.1
 processing file: D:\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\addon.xml
 addon: 1.0.2
 processing file: D:\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\default.py
@@ -240,6 +228,14 @@ Copying fanart.jpg to zips\repository.entertainmentrepo\
 processing file: D:\Software\Kodi\ronos repo\repository.entertainmentrepo\icon.png
 Copying icon.png to zips\repository.entertainmentrepo\
 Zipping repository.entertainmentrepo.zip and moving to repository.entertainmentrepo-1.1
+Directory doesn't exist, creating: zips\repository.foreverguest\
+processing file: D:\Software\Kodi\ronos repo\repository.foreverguest\addon.xml
+addon: 1.0.0
+processing file: D:\Software\Kodi\ronos repo\repository.foreverguest\changelog.txt
+Copying changelog.txt to zips\repository.foreverguest\
+Copying changelog.txt to zips\repository.foreverguest\
+processing file: D:\Software\Kodi\ronos repo\repository.foreverguest\LICENSE.txt
+Zipping repository.foreverguest.zip and moving to repository.foreverguest-1.0.0
 processing file: D:\Software\Kodi\ronos repo\repository.hybrid\addon.xml
 addon: 1.0.0
 processing file: D:\Software\Kodi\ronos repo\repository.hybrid\fanart.jpg
@@ -253,17 +249,6 @@ addon: 0.3
 processing file: D:\Software\Kodi\ronos repo\repository.iWillFolo.xbmc\icon.png
 Copying icon.png to zips\repository.iWillFolo.xbmc\
 Zipping repository.iWillFolo.xbmc.zip and moving to repository.iWillFolo.xbmc-0.3
-processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\addon.xml
-addon: 1.0.6
-processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\changelog.txt
-Copying changelog.txt to zips\repository.jas0npc\
-Copying changelog.txt to zips\repository.jas0npc\
-processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\fanart.jpg
-Copying fanart.jpg to zips\repository.jas0npc\
-processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\icon.png
-Copying icon.png to zips\repository.jas0npc\
-processing file: D:\Software\Kodi\ronos repo\repository.jas0npc\Thumbs.db
-Zipping repository.jas0npc.zip and moving to repository.jas0npc-1.0.6
 processing file: D:\Software\Kodi\ronos repo\repository.Kinkin\addon.xml
 addon: 1.4
 processing file: D:\Software\Kodi\ronos repo\repository.Kinkin\changelog.txt
@@ -354,6 +339,12 @@ Copying fanart.jpg to zips\repository.ronos\
 processing file: D:\Software\Kodi\ronos repo\repository.ronos\icon.png
 Copying icon.png to zips\repository.ronos\
 Zipping repository.ronos.zip and moving to repository.ronos-2.0.0
+Directory doesn't exist, creating: zips\repository.schismtv.addonsdev\
+processing file: D:\Software\Kodi\ronos repo\repository.schismtv.addonsdev\addon.xml
+addon: 1.0.0
+processing file: D:\Software\Kodi\ronos repo\repository.schismtv.addonsdev\icon.png
+Copying icon.png to zips\repository.schismtv.addonsdev\
+Zipping repository.schismtv.addonsdev.zip and moving to repository.schismtv.addonsdev-1.0.0
 processing file: D:\Software\Kodi\ronos repo\repository.shadowcrew\addon.xml
 addon: 2.0.0
 processing file: D:\Software\Kodi\ronos repo\repository.shadowcrew\fanart.jpg
