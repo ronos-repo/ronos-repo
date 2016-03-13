@@ -1,0 +1,520 @@
+Excluding P2P-STREAMS-Parsers\addon.xml for [Errno 2] No such file or directory: 'P2P-STREAMS-Parsers\\addon.xml'
+Excluding zips\addon.xml for [Errno 2] No such file or directory: 'zips\\addon.xml'
+Finished updating addons xml and md5 files
+Starting zip file creation...
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\addon.xml
+addon: 1.4.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\changelog.txt
+Copying changelog.txt to zips\plugin.audio.googlemusic.exp\
+Copying changelog.txt to zips\plugin.audio.googlemusic.exp\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\fanart.jpg
+Copying fanart.jpg to zips\plugin.audio.googlemusic.exp\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\gmusicapi
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicActions.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicApi.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicLogin.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicNavigation.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicPlaySong.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\GoogleMusicStorage.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\gpsoauth
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\icon.png
+Copying icon.png to zips\plugin.audio.googlemusic.exp\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\pkcs1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\resources
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\utils.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\__init__.py
+Zipping plugin.audio.googlemusic.exp.zip and moving to plugin.audio.googlemusic.exp-1.4.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.metadata.sratim.co.il\addon.xml
+addon: 1.3.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.metadata.sratim.co.il\changelog.txt
+Copying changelog.txt to zips\plugin.metadata.sratim.co.il\
+Copying changelog.txt to zips\plugin.metadata.sratim.co.il\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.metadata.sratim.co.il\icon.png
+Copying icon.png to zips\plugin.metadata.sratim.co.il\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.metadata.sratim.co.il\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.metadata.sratim.co.il\resources
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.metadata.sratim.co.il\sratim.xml
+Zipping plugin.metadata.sratim.co.il.zip and moving to plugin.metadata.sratim.co.il-1.3.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\addon.xml
+addon: 1.2.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\art2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\changelog.txt
+Copying changelog.txt to zips\plugin.program.addoninstaller\
+Copying changelog.txt to zips\plugin.program.addoninstaller\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\downloader.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\extract.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\fanart.jpg
+Copying fanart.jpg to zips\plugin.program.addoninstaller\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\icon.png
+Copying icon.png to zips\plugin.program.addoninstaller\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\resources
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\t0mm0_common_addon.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.program.addoninstaller\t0mm0_common_net.py
+Zipping plugin.program.addoninstaller.zip and moving to plugin.program.addoninstaller-1.2.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\addon.xml
+addon: 1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\fanart.jpg
+Copying fanart.jpg to zips\plugin.video.KaraokeILMizrahi\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\icon.png
+Copying icon.png to zips\plugin.video.KaraokeILMizrahi\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\plugintools.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\plugintools.pyc
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.KaraokeILMizrahi\plugintools.pyo
+Zipping plugin.video.KaraokeILMizrahi.zip and moving to plugin.video.KaraokeILMizrahi-1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.kmediatorrent\addon.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.kmediatorrent\addon.xml
+addon: 2.3.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.kmediatorrent\fanart.jpg
+Copying fanart.jpg to zips\plugin.video.kmediatorrent\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.kmediatorrent\icon.png
+Copying icon.png to zips\plugin.video.kmediatorrent\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.kmediatorrent\resources
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.kmediatorrent\__init__.py
+Zipping plugin.video.kmediatorrent.zip and moving to plugin.video.kmediatorrent-2.3.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\addon.xml
+addon: 0.2.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\art
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\default.pyo
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\fanart.jpg
+Copying fanart.jpg to zips\plugin.video.latinototal\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\framescrape.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\framescrape.pyo
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\icon.png
+Copying icon.png to zips\plugin.video.latinototal\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\ioncube.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\ioncube.pyo
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\nstream.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\nstream.pyo
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\playlists
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\plugintools.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\plugintools.pyo
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\plugintools_ptv.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\resources
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\tmp
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\__init__.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\~$efault.py
+Zipping plugin.video.latinototal.zip and moving to plugin.video.latinototal-0.2.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\.project
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\.pydevproject
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\addon.xml
+addon: 1.3.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\fanart.jpg
+Copying fanart.jpg to zips\plugin.video.liveil.tv\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\icon.png
+Copying icon.png to zips\plugin.video.liveil.tv\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\resources
+Zipping plugin.video.liveil.tv.zip and moving to plugin.video.liveil.tv-1.3.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader\addon.xml
+addon: 1.1.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader\changelog.txt
+Copying changelog.txt to zips\plugin.video.playlistLoader\
+Copying changelog.txt to zips\plugin.video.playlistLoader\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader\icon.png
+Copying icon.png to zips\plugin.video.playlistLoader\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader\repoCheck.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader\resources
+Zipping plugin.video.playlistLoader.zip and moving to plugin.video.playlistLoader-1.1.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader.Backup\addon.xml
+addon: 1.0.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader.Backup\changelog.txt
+Copying changelog.txt to zips\plugin.video.playlistLoader.Backup\
+Copying changelog.txt to zips\plugin.video.playlistLoader.Backup\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader.Backup\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader.Backup\icon.png
+Copying icon.png to zips\plugin.video.playlistLoader.Backup\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader.Backup\repoCheck.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader.Backup\resources
+Zipping plugin.video.playlistLoader.Backup.zip and moving to plugin.video.playlistLoader.Backup-1.0.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\addon.xml
+addon: 1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\fanart.jpg
+Copying fanart.jpg to zips\plugin.video.sharimkaraokeltd\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\icon.png
+Copying icon.png to zips\plugin.video.sharimkaraokeltd\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\plugintools.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\plugintools.pyc
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sharimkaraokeltd\plugintools.pyo
+Zipping plugin.video.sharimkaraokeltd.zip and moving to plugin.video.sharimkaraokeltd-1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\.gitignore
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\addon.xml
+addon: 1.8.8.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\Aug 22.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\changelog.txt
+Copying changelog.txt to zips\plugin.video.SportsDevil\
+Copying changelog.txt to zips\plugin.video.SportsDevil\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\fanart.jpg
+Copying fanart.jpg to zips\plugin.video.SportsDevil\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\icon.png
+Copying icon.png to zips\plugin.video.SportsDevil\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\lib
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.SportsDevil\resources
+Zipping plugin.video.SportsDevil.zip and moving to plugin.video.SportsDevil-1.8.8.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sportstv\addon.xml
+addon: 1.0.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sportstv\icon.png
+Copying icon.png to zips\plugin.video.sportstv\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.sportstv\sportstv.py
+Zipping plugin.video.sportstv.zip and moving to plugin.video.sportstv-1.0.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.abeksis\addon.xml
+addon: 1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.abeksis\icon.png
+Copying icon.png to zips\repository.abeksis\
+Zipping repository.abeksis.zip and moving to repository.abeksis-1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.addonscriptorde-beta\addon.xml
+addon: 1.0.0
+Zipping repository.addonscriptorde-beta.zip and moving to repository.addonscriptorde-beta-1.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.bbtsip.tv\addon.xml
+addon: 0.0.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.bbtsip.tv\changelog.txt
+Copying changelog.txt to zips\repository.bbtsip.tv\
+Copying changelog.txt to zips\repository.bbtsip.tv\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.bbtsip.tv\fanart.jpg
+Copying fanart.jpg to zips\repository.bbtsip.tv\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.bbtsip.tv\icon.png
+Copying icon.png to zips\repository.bbtsip.tv\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.bbtsip.tv\LICENSE.txt
+Zipping repository.bbtsip.tv.zip and moving to repository.bbtsip.tv-0.0.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.boogie\addon.xml
+addon: 0.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.boogie\changelog.txt
+Copying changelog.txt to zips\repository.boogie\
+Copying changelog.txt to zips\repository.boogie\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.boogie\icon.png
+Copying icon.png to zips\repository.boogie\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.boogie\README.md
+Zipping repository.boogie.zip and moving to repository.boogie-0.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.dextertv\addon.xml
+addon: 1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.dextertv\changelog.txt
+Copying changelog.txt to zips\repository.dextertv\
+Copying changelog.txt to zips\repository.dextertv\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.dextertv\fanart.jpg
+Copying fanart.jpg to zips\repository.dextertv\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.dextertv\icon.png
+Copying icon.png to zips\repository.dextertv\
+Zipping repository.dextertv.zip and moving to repository.dextertv-1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.donatelloandhybrid\addon.xml
+addon: 1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.donatelloandhybrid\icon.png
+Copying icon.png to zips\repository.donatelloandhybrid\
+Zipping repository.donatelloandhybrid.zip and moving to repository.donatelloandhybrid-1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.elmerohueso\addon.xml
+addon: 1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.elmerohueso\icon.png
+Copying icon.png to zips\repository.elmerohueso\
+Zipping repository.elmerohueso.zip and moving to repository.elmerohueso-1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.entertainmentrepo\addon.xml
+addon: 1.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.entertainmentrepo\changelog.txt
+Copying changelog.txt to zips\repository.entertainmentrepo\
+Copying changelog.txt to zips\repository.entertainmentrepo\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.entertainmentrepo\fanart.jpg
+Copying fanart.jpg to zips\repository.entertainmentrepo\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.entertainmentrepo\icon.png
+Copying icon.png to zips\repository.entertainmentrepo\
+Zipping repository.entertainmentrepo.zip and moving to repository.entertainmentrepo-1.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.foreverguest\addon.xml
+addon: 1.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.foreverguest\changelog.txt
+Copying changelog.txt to zips\repository.foreverguest\
+Copying changelog.txt to zips\repository.foreverguest\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.foreverguest\LICENSE.txt
+Zipping repository.foreverguest.zip and moving to repository.foreverguest-1.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.hybrid\addon.xml
+addon: 1.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.hybrid\fanart.jpg
+Copying fanart.jpg to zips\repository.hybrid\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.hybrid\icon.png
+Copying icon.png to zips\repository.hybrid\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.hybrid\LICENSE.txt
+Zipping repository.hybrid.zip and moving to repository.hybrid-1.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.iWillFolo.xbmc\addon.xml
+addon: 0.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.iWillFolo.xbmc\icon.png
+Copying icon.png to zips\repository.iWillFolo.xbmc\
+Zipping repository.iWillFolo.xbmc.zip and moving to repository.iWillFolo.xbmc-0.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.Kinkin\addon.xml
+addon: 1.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.Kinkin\changelog.txt
+Copying changelog.txt to zips\repository.Kinkin\
+Copying changelog.txt to zips\repository.Kinkin\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.Kinkin\fanart.jpg
+Copying fanart.jpg to zips\repository.Kinkin\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.Kinkin\icon.png
+Copying icon.png to zips\repository.Kinkin\
+Zipping repository.Kinkin.zip and moving to repository.Kinkin-1.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.kodil\addon.xml
+addon: 1.0.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.kodil\changelog.txt
+Copying changelog.txt to zips\repository.kodil\
+Copying changelog.txt to zips\repository.kodil\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.kodil\icon.png
+Copying icon.png to zips\repository.kodil\
+Zipping repository.kodil.zip and moving to repository.kodil-1.0.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.kodiunderground\addon.xml
+addon: 1.0.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.kodiunderground\changelog.txt
+Copying changelog.txt to zips\repository.kodiunderground\
+Copying changelog.txt to zips\repository.kodiunderground\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.kodiunderground\icon.png
+Copying icon.png to zips\repository.kodiunderground\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.kodiunderground\LICENSE.txt
+Zipping repository.kodiunderground.zip and moving to repository.kodiunderground-1.0.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.lambda\addon.xml
+addon: 1.1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.lambda\fanart.jpg
+Copying fanart.jpg to zips\repository.lambda\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.lambda\icon.png
+Copying icon.png to zips\repository.lambda\
+Zipping repository.lambda.zip and moving to repository.lambda-1.1.0
+Directory doesn't exist, creating: zips\repository.mdrepo\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.mdrepo\addon.xml
+addon: 1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.mdrepo\fanart.jpg
+Copying fanart.jpg to zips\repository.mdrepo\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.mdrepo\icon.png
+Copying icon.png to zips\repository.mdrepo\
+Zipping repository.mdrepo.zip and moving to repository.mdrepo-1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.metalkettle\addon.xml
+addon: 1.6.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.metalkettle\changelog.txt
+Copying changelog.txt to zips\repository.metalkettle\
+Copying changelog.txt to zips\repository.metalkettle\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.metalkettle\fanart.jpg
+Copying fanart.jpg to zips\repository.metalkettle\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.metalkettle\icon.png
+Copying icon.png to zips\repository.metalkettle\
+Zipping repository.metalkettle.zip and moving to repository.metalkettle-1.6.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ninbora\addon.xml
+addon: 1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ninbora\icon.png
+Copying icon.png to zips\repository.ninbora\
+Zipping repository.ninbora.zip and moving to repository.ninbora-1.0.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.p2p-streams.xbmc\addon.xml
+addon: 1.0.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.p2p-streams.xbmc\fanart.jpg
+Copying fanart.jpg to zips\repository.p2p-streams.xbmc\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.p2p-streams.xbmc\icon.png
+Copying icon.png to zips\repository.p2p-streams.xbmc\
+Zipping repository.p2p-streams.xbmc.zip and moving to repository.p2p-streams.xbmc-1.0.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.pulsar\addon.xml
+addon: 0.6.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.pulsar\icon.png
+Copying icon.png to zips\repository.pulsar\
+Zipping repository.pulsar.zip and moving to repository.pulsar-0.6.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.pulsarunofficial\addon.xml
+addon: 1.0.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.pulsarunofficial\changelog.txt
+Copying changelog.txt to zips\repository.pulsarunofficial\
+Copying changelog.txt to zips\repository.pulsarunofficial\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.pulsarunofficial\icon.png
+Copying icon.png to zips\repository.pulsarunofficial\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.pulsarunofficial\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.pulsarunofficial\providers.txt
+Zipping repository.pulsarunofficial.zip and moving to repository.pulsarunofficial-1.0.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.rayw1986\addon.xml
+addon: 1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.rayw1986\changelog.txt
+Copying changelog.txt to zips\repository.rayw1986\
+Copying changelog.txt to zips\repository.rayw1986\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.rayw1986\fanart.jpg
+Copying fanart.jpg to zips\repository.rayw1986\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.rayw1986\icon.png
+Copying icon.png to zips\repository.rayw1986\
+Zipping repository.rayw1986.zip and moving to repository.rayw1986-1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ronos\addon.xml
+addon: 2.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ronos\fanart.jpg
+Copying fanart.jpg to zips\repository.ronos\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ronos\icon.png
+Copying icon.png to zips\repository.ronos\
+Zipping repository.ronos.zip and moving to repository.ronos-2.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.schismtv.addonsdev\addon.xml
+addon: 1.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.schismtv.addonsdev\icon.png
+Copying icon.png to zips\repository.schismtv.addonsdev\
+Zipping repository.schismtv.addonsdev.zip and moving to repository.schismtv.addonsdev-1.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.shadowcrew\addon.xml
+addon: 2.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.shadowcrew\fanart.jpg
+Copying fanart.jpg to zips\repository.shadowcrew\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.shadowcrew\icon.png
+Copying icon.png to zips\repository.shadowcrew\
+Zipping repository.shadowcrew.zip and moving to repository.shadowcrew-2.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.t0mm0\addon.xml
+addon: 1.0.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.t0mm0\changelog.txt
+Copying changelog.txt to zips\repository.t0mm0\
+Copying changelog.txt to zips\repository.t0mm0\
+Zipping repository.t0mm0.zip and moving to repository.t0mm0-1.0.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.thevibe\addon.xml
+addon: 2.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.thevibe\icon.png
+Copying icon.png to zips\repository.thevibe\
+Zipping repository.thevibe.zip and moving to repository.thevibe-2.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.TheWiz\addon.xml
+addon: 2.1.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.TheWiz\icon.png
+Copying icon.png to zips\repository.TheWiz\
+Zipping repository.TheWiz.zip and moving to repository.TheWiz-2.1.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.TheYid\addon.xml
+addon: 1.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.TheYid\changelog-1.3.txt
+Copying changelog-1.3.txt to zips\repository.TheYid\
+Copying changelog-1.3.txt to zips\repository.TheYid\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.TheYid\fanart.jpg
+Copying fanart.jpg to zips\repository.TheYid\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.TheYid\icon.png
+Copying icon.png to zips\repository.TheYid\
+Zipping repository.TheYid.zip and moving to repository.TheYid-1.3
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.tknorris.beta\addon.xml
+addon: 1.0.5
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.tknorris.beta\changelog.txt
+Copying changelog.txt to zips\repository.tknorris.beta\
+Copying changelog.txt to zips\repository.tknorris.beta\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.tknorris.beta\icon.png
+Copying icon.png to zips\repository.tknorris.beta\
+Zipping repository.tknorris.beta.zip and moving to repository.tknorris.beta-1.0.5
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xbmc-israel\addon.xml
+addon: 1.0.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xbmc-israel\changelog.txt
+Copying changelog.txt to zips\repository.xbmc-israel\
+Copying changelog.txt to zips\repository.xbmc-israel\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xbmc-israel\icon.png
+Copying icon.png to zips\repository.xbmc-israel\
+Zipping repository.xbmc-israel.zip and moving to repository.xbmc-israel-1.0.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xbmchub\addon.xml
+addon: 1.0.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xbmchub\fanart.jpg
+Copying fanart.jpg to zips\repository.xbmchub\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xbmchub\icon.png
+Copying icon.png to zips\repository.xbmchub\
+Zipping repository.xbmchub.zip and moving to repository.xbmchub-1.0.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xunitytalk\addon.xml
+addon: 1.0.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xunitytalk\fanart.jpg
+Copying fanart.jpg to zips\repository.xunitytalk\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xunitytalk\icon.png
+Copying icon.png to zips\repository.xunitytalk\
+Zipping repository.xunitytalk.zip and moving to repository.xunitytalk-1.0.6
+Directory doesn't exist, creating: zips\script.common.plugin.cache\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\addon.xml
+addon: 2.5.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\changelog.txt
+Copying changelog.txt to zips\script.common.plugin.cache\
+Copying changelog.txt to zips\script.common.plugin.cache\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\icon and thumbnail licensing.txt
+Copying icon and thumbnail licensing.txt to zips\script.common.plugin.cache\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\icon.png
+Copying icon.png to zips\script.common.plugin.cache\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\lib
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\resources
+Zipping script.common.plugin.cache.zip and moving to script.common.plugin.cache-2.5.6
+Directory doesn't exist, creating: zips\script.module.beautifulsoup4\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\addon.xml
+addon: 4.3.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\AUTHORS.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\COPYING.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\icon.png
+Copying icon.png to zips\script.module.beautifulsoup4\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\lib
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\LICENSE
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\README.txt
+Zipping script.module.beautifulsoup4.zip and moving to script.module.beautifulsoup4-4.3.2
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-addon-installer\addon.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-addon-installer\addon.xml
+addon: 0.0.5
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-addon-installer\changelog.txt
+Copying changelog.txt to zips\script.ronos-addon-installer\
+Copying changelog.txt to zips\script.ronos-addon-installer\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-addon-installer\fanart.jpg
+Copying fanart.jpg to zips\script.ronos-addon-installer\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-addon-installer\icon.png
+Copying icon.png to zips\script.ronos-addon-installer\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-addon-installer\LICENSE.txt
+Zipping script.ronos-addon-installer.zip and moving to script.ronos-addon-installer-0.0.5
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installer\addon.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installer\addon.xml
+addon: 0.1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installer\changelog.txt
+Copying changelog.txt to zips\script.ronos-repo-installer\
+Copying changelog.txt to zips\script.ronos-repo-installer\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installer\fanart.jpg
+Copying fanart.jpg to zips\script.ronos-repo-installer\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installer\icon.png
+Copying icon.png to zips\script.ronos-repo-installer\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installer\LICENSE.txt
+Zipping script.ronos-repo-installer.zip and moving to script.ronos-repo-installer-0.1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\.gitignore
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\1080i
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\addon.xml
+addon: 2.0.12
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\backgrounds
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\changelog.txt
+Copying changelog.txt to zips\skin.amber\
+Copying changelog.txt to zips\skin.amber\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\colors
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\fanart.jpg
+Copying fanart.jpg to zips\skin.amber\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\fonts
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\icon.png
+Copying icon.png to zips\skin.amber\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\language
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\media
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\README.md
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\sounds
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\_screenshots
+Zipping skin.amber.zip and moving to skin.amber-2.0.12
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\720p
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\addon.xml
+addon: 1.0.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\backgrounds
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\changelog.txt
+Copying changelog.txt to zips\skin.confluenceplusplus.helix\
+Copying changelog.txt to zips\skin.confluenceplusplus.helix\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\colors
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\fonts
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\icon.png
+Copying icon.png to zips\skin.confluenceplusplus.helix\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\language
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\media
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\resources
+processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.confluenceplusplus.helix\sounds
+Zipping skin.confluenceplusplus.helix.zip and moving to skin.confluenceplusplus.helix-1.0.4
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.helix.all\addon.xml
+addon: 0.7.03
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.helix.all\changelog.txt
+Copying changelog.txt to zips\superrepo.kodi.helix.all\
+Copying changelog.txt to zips\superrepo.kodi.helix.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.helix.all\fanart.jpg
+Copying fanart.jpg to zips\superrepo.kodi.helix.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.helix.all\icon.png
+Copying icon.png to zips\superrepo.kodi.helix.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.helix.all\LICENSE.txt
+Zipping superrepo.kodi.helix.all.zip and moving to superrepo.kodi.helix.all-0.7.03
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.isengard.all\addon.xml
+addon: 0.7.03
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.isengard.all\changelog.txt
+Copying changelog.txt to zips\superrepo.kodi.isengard.all\
+Copying changelog.txt to zips\superrepo.kodi.isengard.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.isengard.all\fanart.jpg
+Copying fanart.jpg to zips\superrepo.kodi.isengard.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.isengard.all\icon.png
+Copying icon.png to zips\superrepo.kodi.isengard.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.isengard.all\LICENSE.txt
+Zipping superrepo.kodi.isengard.all.zip and moving to superrepo.kodi.isengard.all-0.7.03
