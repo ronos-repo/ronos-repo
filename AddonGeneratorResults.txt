@@ -112,6 +112,21 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\ico
 Copying icon.png to zips\plugin.video.liveil.tv\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\resources
 Zipping plugin.video.liveil.tv.zip and moving to plugin.video.liveil.tv-1.3.6
+Directory doesn't exist, creating: zips\plugin.video.multidown\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\addon.xml
+addon: 1.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\fanart.jpg
+Copying fanart.jpg to zips\plugin.video.multidown\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\icon.png
+Copying icon.png to zips\plugin.video.multidown\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\multidown.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\multidown.pyo
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\net.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\net.pyo
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\plugintools.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\plugintools.pyo
+Zipping plugin.video.multidown.zip and moving to plugin.video.multidown-1.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader\addon.xml
 addon: 1.1.3
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.playlistLoader\changelog.txt
@@ -280,7 +295,6 @@ Copying fanart.jpg to zips\repository.lambda\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.lambda\icon.png
 Copying icon.png to zips\repository.lambda\
 Zipping repository.lambda.zip and moving to repository.lambda-1.1.0
-Directory doesn't exist, creating: zips\repository.mdrepo\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.mdrepo\addon.xml
 addon: 1.0.2
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.mdrepo\fanart.jpg
@@ -410,7 +424,6 @@ Copying fanart.jpg to zips\repository.xunitytalk\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xunitytalk\icon.png
 Copying icon.png to zips\repository.xunitytalk\
 Zipping repository.xunitytalk.zip and moving to repository.xunitytalk-1.0.6
-Directory doesn't exist, creating: zips\script.common.plugin.cache\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\addon.xml
 addon: 2.5.6
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\changelog.txt
@@ -424,7 +437,6 @@ Copying icon.png to zips\script.common.plugin.cache\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\lib
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\resources
 Zipping script.common.plugin.cache.zip and moving to script.common.plugin.cache-2.5.6
-Directory doesn't exist, creating: zips\script.module.beautifulsoup4\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\addon.xml
 addon: 4.3.2
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\AUTHORS.txt
@@ -435,6 +447,18 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsou
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\LICENSE
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\README.txt
 Zipping script.module.beautifulsoup4.zip and moving to script.module.beautifulsoup4-4.3.2
+Directory doesn't exist, creating: zips\script.module.urlresolver\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.urlresolver\addon.xml
+addon: 2.10.13~beta5
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.urlresolver\changelog.txt
+Copying changelog.txt to zips\script.module.urlresolver\
+Copying changelog.txt to zips\script.module.urlresolver\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.urlresolver\icon.png
+Copying icon.png to zips\script.module.urlresolver\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.urlresolver\lib
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.urlresolver\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.urlresolver\resources
+Zipping script.module.urlresolver.zip and moving to script.module.urlresolver-2.10.13~beta5
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-addon-installer\addon.py
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-addon-installer\addon.xml
 addon: 0.0.5
