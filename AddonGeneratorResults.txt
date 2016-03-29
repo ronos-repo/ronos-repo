@@ -112,7 +112,6 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\ico
 Copying icon.png to zips\plugin.video.liveil.tv\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\resources
 Zipping plugin.video.liveil.tv.zip and moving to plugin.video.liveil.tv-1.3.6
-Directory doesn't exist, creating: zips\plugin.video.multidown\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\addon.xml
 addon: 1.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.multidown\default.py
@@ -350,12 +349,12 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.rayw1986\icon.p
 Copying icon.png to zips\repository.rayw1986\
 Zipping repository.rayw1986.zip and moving to repository.rayw1986-1.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ronos\addon.xml
-addon: 2.0.0
+addon: 3.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ronos\fanart.jpg
 Copying fanart.jpg to zips\repository.ronos\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ronos\icon.png
 Copying icon.png to zips\repository.ronos\
-Zipping repository.ronos.zip and moving to repository.ronos-2.0.0
+Zipping repository.ronos.zip and moving to repository.ronos-3.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.schismtv.addonsdev\addon.xml
 addon: 1.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.schismtv.addonsdev\icon.png
@@ -447,7 +446,6 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsou
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\LICENSE
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.beautifulsoup4\README.txt
 Zipping script.module.beautifulsoup4.zip and moving to script.module.beautifulsoup4-4.3.2
-Directory doesn't exist, creating: zips\script.module.urlresolver\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.urlresolver\addon.xml
 addon: 2.10.13~beta5
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.module.urlresolver\changelog.txt
