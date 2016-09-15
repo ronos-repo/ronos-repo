@@ -1,9 +1,7 @@
 Excluding P2P-STREAMS-Parsers\addon.xml for [Errno 2] No such file or directory: 'P2P-STREAMS-Parsers\\addon.xml'
-Excluding service.vpn.manager\addon.xml for [Errno 2] No such file or directory: 'service.vpn.manager\\addon.xml'
 Excluding zips\addon.xml for [Errno 2] No such file or directory: 'zips\\addon.xml'
 Finished updating addons xml and md5 files
 Starting zip file creation...
-Directory doesn't exist, creating: zips\network.openvpn\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\network.openvpn\addon.xml
 addon: 6.0.1
 processing file: D:\OneDrive\Software\Kodi\ronos repo\network.openvpn\bin
@@ -503,9 +501,56 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installe
 Copying icon.png to zips\script.ronos-repo-installer\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installer\LICENSE.txt
 Zipping script.ronos-repo-installer.zip and moving to script.ronos-repo-installer-0.1.0
-Directory doesn't exist, creating: zips\service.vpn.manager\
-processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\service.vpn.manager
-Zipping service.vpn.manager.zip and moving to service.vpn.manager-0.1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\addon.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\addon.xml
+addon: 1.4.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\AirVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\BTGuard
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\Celo
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\changelog.txt
+Copying changelog.txt to zips\service.vpn.manager\
+Copying changelog.txt to zips\service.vpn.manager\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\connect.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\CyberGhost
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\cycle.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\ExpressVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\HideIPVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\HideMe
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\HMA
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\ibVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\icon.png
+Copying icon.png to zips\service.vpn.manager\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\infopopup.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\INSTALL.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\IPVanish
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\libs
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\LimeVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\LiquidVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\logpopup.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\managefiles.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\NordVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\PerfectPrivacy
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\PIA
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\PureVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\README.md
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\recycle.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\remote.xml
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\resetVPN.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\resources
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\SaferVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\service.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\speedtest.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\Thumbs.db
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\tigerVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\TorGuard
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\TotalVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\UserDefined
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\VPN.ht
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\VPNUnlimited
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\VyprVPN
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\WiTopia
+Zipping service.vpn.manager.zip and moving to service.vpn.manager-1.4.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\.gitignore
 processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\1080i
 processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\addon.xml
