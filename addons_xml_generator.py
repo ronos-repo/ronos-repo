@@ -133,7 +133,7 @@ if ( __name__ == "__main__" ):
 
     filesinrootdir = os.listdir(rootdir)
     for x in filesinrootdir:
-        if re.search("plugin|repository|skin|superrepo|script" , x):
+        if re.search("plugin|repository|skin|superrepo|script|service|network" , x):
             foldertozip = rootdir+'\\'+x
             zipfilename = x + '.zip'
             zipfilenamefirstpart = zipfilename[:-4]

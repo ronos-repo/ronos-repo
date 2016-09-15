@@ -1,8 +1,19 @@
 Excluding P2P-STREAMS-Parsers\addon.xml for [Errno 2] No such file or directory: 'P2P-STREAMS-Parsers\\addon.xml'
-Excluding service.vpn.manager-1.4.0\addon.xml for [Errno 2] No such file or directory: 'service.vpn.manager-1.4.0\\addon.xml'
+Excluding service.vpn.manager\addon.xml for [Errno 2] No such file or directory: 'service.vpn.manager\\addon.xml'
 Excluding zips\addon.xml for [Errno 2] No such file or directory: 'zips\\addon.xml'
 Finished updating addons xml and md5 files
 Starting zip file creation...
+Directory doesn't exist, creating: zips\network.openvpn\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\network.openvpn\addon.xml
+addon: 6.0.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\network.openvpn\bin
+processing file: D:\OneDrive\Software\Kodi\ronos repo\network.openvpn\changelog.txt
+Copying changelog.txt to zips\network.openvpn\
+Copying changelog.txt to zips\network.openvpn\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\network.openvpn\default.py
+processing file: D:\OneDrive\Software\Kodi\ronos repo\network.openvpn\icon.png
+Copying icon.png to zips\network.openvpn\
+Zipping network.openvpn.zip and moving to network.openvpn-6.0.1
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\addon.xml
 addon: 1.4.1
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.audio.googlemusic.exp\changelog.txt
@@ -424,7 +435,6 @@ Copying fanart.jpg to zips\repository.xunitytalk\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xunitytalk\icon.png
 Copying icon.png to zips\repository.xunitytalk\
 Zipping repository.xunitytalk.zip and moving to repository.xunitytalk-1.0.6
-Directory doesn't exist, creating: zips\repository.zomboided.plugins\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\addon.xml
 addon: 1.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\changelog.txt
@@ -493,6 +503,9 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installe
 Copying icon.png to zips\script.ronos-repo-installer\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.ronos-repo-installer\LICENSE.txt
 Zipping script.ronos-repo-installer.zip and moving to script.ronos-repo-installer-0.1.0
+Directory doesn't exist, creating: zips\service.vpn.manager\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\service.vpn.manager\service.vpn.manager
+Zipping service.vpn.manager.zip and moving to service.vpn.manager-0.1.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\.gitignore
 processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\1080i
 processing file: D:\OneDrive\Software\Kodi\ronos repo\skin.amber\addon.xml
