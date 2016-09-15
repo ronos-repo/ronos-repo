@@ -1,4 +1,5 @@
 Excluding P2P-STREAMS-Parsers\addon.xml for [Errno 2] No such file or directory: 'P2P-STREAMS-Parsers\\addon.xml'
+Excluding service.vpn.manager-1.4.0\addon.xml for [Errno 2] No such file or directory: 'service.vpn.manager-1.4.0\\addon.xml'
 Excluding zips\addon.xml for [Errno 2] No such file or directory: 'zips\\addon.xml'
 Finished updating addons xml and md5 files
 Starting zip file creation...
@@ -423,6 +424,17 @@ Copying fanart.jpg to zips\repository.xunitytalk\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xunitytalk\icon.png
 Copying icon.png to zips\repository.xunitytalk\
 Zipping repository.xunitytalk.zip and moving to repository.xunitytalk-1.0.6
+Directory doesn't exist, creating: zips\repository.zomboided.plugins\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\addon.xml
+addon: 1.0.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\changelog.txt
+Copying changelog.txt to zips\repository.zomboided.plugins\
+Copying changelog.txt to zips\repository.zomboided.plugins\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\icon.png
+Copying icon.png to zips\repository.zomboided.plugins\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\LICENSE.txt
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\README.md
+Zipping repository.zomboided.plugins.zip and moving to repository.zomboided.plugins-1.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\addon.xml
 addon: 2.5.6
 processing file: D:\OneDrive\Software\Kodi\ronos repo\script.common.plugin.cache\changelog.txt
