@@ -433,6 +433,8 @@ Copying fanart.jpg to zips\repository.xunitytalk\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.xunitytalk\icon.png
 Copying icon.png to zips\repository.xunitytalk\
 Zipping repository.xunitytalk.zip and moving to repository.xunitytalk-1.0.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\.gitattributes
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\.gitignore
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\addon.xml
 addon: 1.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.zomboided.plugins\changelog.txt
