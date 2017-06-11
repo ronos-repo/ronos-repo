@@ -111,8 +111,10 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\t
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\__init__.py
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.latinototal\~$efault.py
 Zipping plugin.video.latinototal.zip and moving to plugin.video.latinototal-0.2.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\.DS_Store
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\.project
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\.pydevproject
+processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\addon.py
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\addon.xml
 addon: 1.3.6
 processing file: D:\OneDrive\Software\Kodi\ronos repo\plugin.video.liveil.tv\default.py
@@ -250,6 +252,17 @@ Copying fanart.jpg to zips\repository.entertainmentrepo\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.entertainmentrepo\icon.png
 Copying icon.png to zips\repository.entertainmentrepo\
 Zipping repository.entertainmentrepo.zip and moving to repository.entertainmentrepo-1.1
+Directory doesn't exist, creating: zips\repository.filmkodi.com\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.filmkodi.com\addon.xml
+addon: 2.1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.filmkodi.com\changelog.txt
+Copying changelog.txt to zips\repository.filmkodi.com\
+Copying changelog.txt to zips\repository.filmkodi.com\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.filmkodi.com\fanart.jpg
+Copying fanart.jpg to zips\repository.filmkodi.com\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.filmkodi.com\icon.png
+Copying icon.png to zips\repository.filmkodi.com\
+Zipping repository.filmkodi.com.zip and moving to repository.filmkodi.com-2.1.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.foreverguest\addon.xml
 addon: 1.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.foreverguest\changelog.txt
@@ -326,6 +339,14 @@ addon: 1.0.2
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ninbora\icon.png
 Copying icon.png to zips\repository.ninbora\
 Zipping repository.ninbora.zip and moving to repository.ninbora-1.0.2
+Directory doesn't exist, creating: zips\repository.noobsandnerds\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.noobsandnerds\addon.xml
+addon: 1.7
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.noobsandnerds\fanart.jpg
+Copying fanart.jpg to zips\repository.noobsandnerds\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.noobsandnerds\icon.png
+Copying icon.png to zips\repository.noobsandnerds\
+Zipping repository.noobsandnerds.zip and moving to repository.noobsandnerds-1.7
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.p2p-streams.xbmc\addon.xml
 addon: 1.0.3
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.p2p-streams.xbmc\fanart.jpg
@@ -612,3 +633,15 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.isengard.al
 Copying icon.png to zips\superrepo.kodi.isengard.all\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.isengard.all\LICENSE.txt
 Zipping superrepo.kodi.isengard.all.zip and moving to superrepo.kodi.isengard.all-0.7.03
+Directory doesn't exist, creating: zips\superrepo.kodi.krypton.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.krypton.all\addon.xml
+addon: 0.7.04
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.krypton.all\changelog.txt
+Copying changelog.txt to zips\superrepo.kodi.krypton.all\
+Copying changelog.txt to zips\superrepo.kodi.krypton.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.krypton.all\fanart.jpg
+Copying fanart.jpg to zips\superrepo.kodi.krypton.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.krypton.all\icon.png
+Copying icon.png to zips\superrepo.kodi.krypton.all\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.krypton.all\LICENSE.txt
+Zipping superrepo.kodi.krypton.all.zip and moving to superrepo.kodi.krypton.all-0.7.04
