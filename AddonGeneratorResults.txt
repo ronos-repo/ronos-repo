@@ -1,5 +1,6 @@
 Excluding P2P-STREAMS-Parsers\addon.xml for [Errno 2] No such file or directory: 'P2P-STREAMS-Parsers\\addon.xml'
 Excluding zips\addon.xml for [Errno 2] No such file or directory: 'zips\\addon.xml'
+Excluding __OLD__\addon.xml for [Errno 2] No such file or directory: '__OLD__\\addon.xml'
 Finished updating addons xml and md5 files
 Starting zip file creation...
 processing file: D:\OneDrive\Software\Kodi\ronos repo\network.openvpn\addon.xml
@@ -222,6 +223,18 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.boogie\icon.png
 Copying icon.png to zips\repository.boogie\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.boogie\README.md
 Zipping repository.boogie.zip and moving to repository.boogie-0.0.2
+Directory doesn't exist, creating: zips\repository.colossus\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.colossus\addon.xml
+addon: 999.999.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.colossus\changelog.txt
+Copying changelog.txt to zips\repository.colossus\
+Copying changelog.txt to zips\repository.colossus\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.colossus\fanart.jpg
+Copying fanart.jpg to zips\repository.colossus\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.colossus\icon.png
+Copying icon.png to zips\repository.colossus\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.colossus\LICENSE
+Zipping repository.colossus.zip and moving to repository.colossus-999.999.6
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.dextertv\addon.xml
 addon: 1.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.dextertv\changelog.txt
@@ -252,7 +265,6 @@ Copying fanart.jpg to zips\repository.entertainmentrepo\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.entertainmentrepo\icon.png
 Copying icon.png to zips\repository.entertainmentrepo\
 Zipping repository.entertainmentrepo.zip and moving to repository.entertainmentrepo-1.1
-Directory doesn't exist, creating: zips\repository.filmkodi.com\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.filmkodi.com\addon.xml
 addon: 2.1.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.filmkodi.com\changelog.txt
@@ -339,7 +351,6 @@ addon: 1.0.2
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.ninbora\icon.png
 Copying icon.png to zips\repository.ninbora\
 Zipping repository.ninbora.zip and moving to repository.ninbora-1.0.2
-Directory doesn't exist, creating: zips\repository.noobsandnerds\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.noobsandnerds\addon.xml
 addon: 1.7
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.noobsandnerds\fanart.jpg
@@ -391,6 +402,14 @@ addon: 1.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.schismtv.addonsdev\icon.png
 Copying icon.png to zips\repository.schismtv.addonsdev\
 Zipping repository.schismtv.addonsdev.zip and moving to repository.schismtv.addonsdev-1.0.0
+Directory doesn't exist, creating: zips\repository.sdarot\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.sdarot\addon.xml
+addon: 1.0.1
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.sdarot\fanart.jpg
+Copying fanart.jpg to zips\repository.sdarot\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.sdarot\icon.png
+Copying icon.png to zips\repository.sdarot\
+Zipping repository.sdarot.zip and moving to repository.sdarot-1.0.1
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.shadowcrew\addon.xml
 addon: 2.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.shadowcrew\fanart.jpg
@@ -398,6 +417,17 @@ Copying fanart.jpg to zips\repository.shadowcrew\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.shadowcrew\icon.png
 Copying icon.png to zips\repository.shadowcrew\
 Zipping repository.shadowcrew.zip and moving to repository.shadowcrew-2.0.0
+Directory doesn't exist, creating: zips\repository.smash\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.smash\addon.xml
+addon: 1.3.6
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.smash\changelog.txt
+Copying changelog.txt to zips\repository.smash\
+Copying changelog.txt to zips\repository.smash\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.smash\fanart.jpg
+Copying fanart.jpg to zips\repository.smash\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.smash\icon.png
+Copying icon.png to zips\repository.smash\
+Zipping repository.smash.zip and moving to repository.smash-1.3.6
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.t0mm0\addon.xml
 addon: 1.0.3
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.t0mm0\changelog.txt
@@ -633,7 +663,6 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.isengard.al
 Copying icon.png to zips\superrepo.kodi.isengard.all\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.isengard.all\LICENSE.txt
 Zipping superrepo.kodi.isengard.all.zip and moving to superrepo.kodi.isengard.all-0.7.03
-Directory doesn't exist, creating: zips\superrepo.kodi.krypton.all\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.krypton.all\addon.xml
 addon: 0.7.04
 processing file: D:\OneDrive\Software\Kodi\ronos repo\superrepo.kodi.krypton.all\changelog.txt
