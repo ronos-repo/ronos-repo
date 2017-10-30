@@ -203,6 +203,17 @@ Zipping repository.abeksis.zip and moving to repository.abeksis-1.0.2
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.addonscriptorde-beta\addon.xml
 addon: 1.0.0
 Zipping repository.addonscriptorde-beta.zip and moving to repository.addonscriptorde-beta-1.0.0
+Directory doesn't exist, creating: zips\repository.aresproject\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.aresproject\addon.xml
+addon: 0.1.0
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.aresproject\changelog.txt
+Copying changelog.txt to zips\repository.aresproject\
+Copying changelog.txt to zips\repository.aresproject\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.aresproject\fanart.jpg
+Copying fanart.jpg to zips\repository.aresproject\
+processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.aresproject\icon.png
+Copying icon.png to zips\repository.aresproject\
+Zipping repository.aresproject.zip and moving to repository.aresproject-0.1.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.bbtsip.tv\addon.xml
 addon: 0.0.4
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.bbtsip.tv\changelog.txt
@@ -223,7 +234,6 @@ processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.boogie\icon.png
 Copying icon.png to zips\repository.boogie\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.boogie\README.md
 Zipping repository.boogie.zip and moving to repository.boogie-0.0.2
-Directory doesn't exist, creating: zips\repository.colossus\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.colossus\addon.xml
 addon: 999.999.6
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.colossus\changelog.txt
@@ -402,7 +412,6 @@ addon: 1.0.0
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.schismtv.addonsdev\icon.png
 Copying icon.png to zips\repository.schismtv.addonsdev\
 Zipping repository.schismtv.addonsdev.zip and moving to repository.schismtv.addonsdev-1.0.0
-Directory doesn't exist, creating: zips\repository.sdarot\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.sdarot\addon.xml
 addon: 1.0.1
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.sdarot\fanart.jpg
@@ -417,7 +426,6 @@ Copying fanart.jpg to zips\repository.shadowcrew\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.shadowcrew\icon.png
 Copying icon.png to zips\repository.shadowcrew\
 Zipping repository.shadowcrew.zip and moving to repository.shadowcrew-2.0.0
-Directory doesn't exist, creating: zips\repository.smash\
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.smash\addon.xml
 addon: 1.3.6
 processing file: D:\OneDrive\Software\Kodi\ronos repo\repository.smash\changelog.txt
