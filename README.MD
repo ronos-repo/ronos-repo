@@ -10,6 +10,6 @@
 
 ### Good Sources (??)
 
-http://kodi.metalkettle.co/
-http://fusion.tvaddons.ag/
-http://www.xunitytalk.com/xfinity
+* http://kodi.metalkettle.co/
+* http://fusion.tvaddons.ag/
+* http://www.xunitytalk.com/xfinity
