@@ -701,7 +701,7 @@ Créditos: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plugi
 	</extension>
 </addon>
 
-<addon id="repository.ronos" name="ronos Add-on repository" version="4.0.0" provider-name="ronos">
+<addon id="repository.ronos" name="ronos Add-on repository" version="3.0.0" provider-name="ronos">
 	<extension point="xbmc.addon.repository" name="ronos Add-on repository">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/ronos-repo/ronos-repo/master/addons.xml</info>
@@ -711,7 +711,8 @@ Créditos: Cristi - Atlanta (xsopcast plugin); NouisMons (acestream engine plugi
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install Add-ons from ronos</summary>
-		<description lang="en">Install the repos you want first, then install the plugins you want from the repos themselves (or from AllAddons).
+		<description lang="en">Install the repos you want first, then install the plugins you want from the repos themselves (or from AllAddons). MUST INSTALL REPOS: TvAddons,Xunity,SuperRepo,TheWiz.
+XBMC-Israel:everything; lambda:genesis; x-unity:Vdoubt25,RobinHood; IWillfollow:sportsDevil; KodiUnderground:PulsarStuff; BBTS; DEXTER; jas0npc:TheMuttsNuts; Boogie:UniversalMediaProvider; Bstrdsmkr's:1Channel; Eldorado:IceFilm; MetalKettles:DecadoDocumentaries,MoviesHD,UKTurkPlaylist; NiboraFeeders; P2Pstreams,Pulsar; PulsarUnofficial:Providers; Ronos:GoogleMusic; TheWiz:YouTubeMusic; TheEntertainment:EntertainmentHUB; TVADDONS:MuchMoviesHD,Phonix,Navi-X,AddonInstaller; SuperRepo:OurMatch.NET
 		</description>
 		<platform>all</platform>
 	</extension>
